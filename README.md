@@ -81,7 +81,7 @@ I also sometimes write voluntary content on the subject for non-for-profit organ
 - [Data Citizenship at Large and in Alberta](https://www.centreforsocialimpacttech.ca/2023/04/13/data-citizenship-at-large-and-in-alberta)
 
 ## 📧 Contact 
-📫 You can reach me via [ahosseinkiani@gmail.com](ahosseinkiani@gmail.com) or on [LinkedIn](www.linkedin.com/in/amirhossein-kiani)
+You can reach me via [ahosseinkiani@gmail.com](ahosseinkiani@gmail.com) or on [LinkedIn](www.linkedin.com/in/amirhossein-kiani)
 <!--
 **amirkiaml/amirkiaml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
