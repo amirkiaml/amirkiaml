@@ -7,17 +7,12 @@ Hi there 👋, and welcome to my GitHub! Amir here, a data scientist and philoso
 </div>
 
 
-
-
-
-
 ## ⏰ Present
 
 🧠 Currently, I'm finishing up a 3-month bootcamp in data science offered by BrainStation. This has been an incredible journey, and certainly a significant transition from academia. I have had the chance to learn various technical and soft skills and leverage the ones that I had acquired in my academic career, in this journey. 
 
 🍔 I'm in the final stages of creating a recommender system on a dataset of over 520k recipes scraped from [food.com](www.food.com)! In my capstone project for the bootcamp -- titled **DeepChef** -- I harness the power of state-of-the-art large langue models and semantic embeddings to create a recommender system that takes in users' favorite recipes -- ingredients or instructions, along with themes or other elements -- and returns the 5-most similar recipes from the dataset. Another recommender system further enhances this by taking into account nutritional facts about recipes as well. I'm hoping to incorporate all of the relevant codes into a user-friendly app that people can use at their convenience. To follow the most recent updates on DeepChef, follow [this repository](https://github.com/amirkiaml/DeepChef-BSTN-Capstone).
 
-📚 I also recently published a book on the mathematics of data science -- *No Bullshit Math for Data Science*. The book is available on Amazon for purchasing. Check out [this link](https://mathanddata.com/bookstore/) for more info and a sample chapter.
 
 ## 🛠️ Languages and Tools
 In data science, I have used the following tools, some more than others:
@@ -52,6 +47,15 @@ In data science, I have used the following tools, some more than others:
 ## 🎓 Educational Background
 I did my undergraduate degree in Mathematics and Applications, MA and PhD in Philosophy. If you'd like to learn in more detail about my background education and the wide range of soft and hard industry-valued skills that I have acquired throughout the years, check out [this page](https://github.com/amirkiaml/Educational-Background).
 
+## 📚 Books
+
+I recently published a book on the mathematics of data science -- *No Bullshit Math for Data Science*. 
+
+<div style="display: flex; justify-content: center;">
+  <img src="https://mathanddata.com/wp-content/uploads/2023/05/book-cover-1-233x300-2.png"
+</div>
+
+The book is available on Amazon for purchase. Check out [this link](https://mathanddata.com/bookstore/) for more info and a sample chapter.
 
 ## 📝 Blogs
 I run two blogs: one on the mathematical foundations of data science, and another on the philosophical dimension of data science.
