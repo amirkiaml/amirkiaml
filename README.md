@@ -15,7 +15,7 @@ I did my undergraduate degree in Mathematics and Applications, MA and PhD in Phi
 
 # 📊 Data Science
 
-Currently, I'm finishing up a 3-month bootcamp in data science offered by BrainStation. This has been an incredible journey, and certainly a significant transition from academia. I have had the chance to learn various technical and soft skills and leverage the ones that I had acquired in my academic career, in this journey. 
+Currently, I'm finishing up a 3-month bootcamp in data science offered by BrainStation <img src="https://coursereport-production.imgix.net/uploads/school/logo/62/original/blacksquare-logo.jpg?w=72&h=72" alt="SciPy Icon" width="20" height="20" />. This has been an incredible journey, and certainly a significant transition from academia. I have had the chance to learn various technical and soft skills and leverage the ones that I had acquired in my academic career, in this journey. 
 
 ## 🛠️ Languages and Tools
 In data science, I have used the following tools, some more than others:
@@ -52,6 +52,9 @@ In data science, I have used the following tools, some more than others:
 ### 🍔 DeepChef
 
 I'm in the final stages of creating a recommender system on a dataset of over 520k recipes scraped from [food.com](www.food.com)! In my capstone project for the bootcamp -- titled **DeepChef** -- I harness the power of state-of-the-art large langue models and semantic embeddings to create a recommender system that takes in users' favorite recipes -- ingredients or instructions, along with themes or other elements -- and returns the 5-most similar recipes from the dataset. Another recommender system further enhances this by taking into account nutritional facts about recipes as well. I'm hoping to incorporate all of the relevant codes into a user-friendly app that people can use at their convenience. To follow the most recent updates on DeepChef, follow [this repository](https://github.com/amirkiaml/DeepChef-BSTN-Capstone).
+
+### <img src="https://1000logos.net/wp-content/uploads/2016/11/New-Google-Logo.jpg" alt="SciPy Icon" width="30" height="30" /> Google|BrainStation Industry Project
+The description will be added soon...
 
 ### 🧠 DeepAnalytic
 The description will be added soon...
