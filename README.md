@@ -12,7 +12,7 @@ I did my undergraduate degree in Mathematics and Applications, MA and PhD in Phi
 
 ## 📊 Data Science Projects
 
-🧠 Currently, I'm finishing up a 3-month bootcamp in data science offered by BrainStation. This has been an incredible journey, and certainly a significant transition from academia. I have had the chance to learn various technical and soft skills and leverage the ones that I had acquired in my academic career, in this journey. 
+Currently, I'm finishing up a 3-month bootcamp in data science offered by BrainStation. This has been an incredible journey, and certainly a significant transition from academia. I have had the chance to learn various technical and soft skills and leverage the ones that I had acquired in my academic career, in this journey. 
 
 ### DeepChef
 
