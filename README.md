@@ -1,4 +1,4 @@
-## 🌟 Introduction 
+# 🌟 Introduction 
 Hi there 👋, and welcome to my GitHub! Amir here, a data scientist and philosopher (PhD) by training. I love all things data but particularly find Natural language Processing (NLP) very fascinating. On the philosophical side of things, I like diving deep into questions of machine consciousness, AI safety and IT ethics.
 
 
@@ -7,17 +7,12 @@ Hi there 👋, and welcome to my GitHub! Amir here, a data scientist and philoso
        alt="GIF" width="350" height="250" style="margin: 0 auto;" />
 </div>
 
-## 🎓 Educational Background
+# 🎓 Educational Background
 I did my undergraduate degree in Mathematics and Applications, MA and PhD in Philosophy. If you'd like to learn in more detail about my background education and the wide range of soft and hard industry-valued skills that I have acquired throughout the years, check out [here](https://github.com/amirkiaml/Educational-Background).
 
-## 📊 Data Science Projects
+# 📊 Data Science
 
 Currently, I'm finishing up a 3-month bootcamp in data science offered by BrainStation. This has been an incredible journey, and certainly a significant transition from academia. I have had the chance to learn various technical and soft skills and leverage the ones that I had acquired in my academic career, in this journey. 
-
-### DeepChef
-
-🍔 I'm in the final stages of creating a recommender system on a dataset of over 520k recipes scraped from [food.com](www.food.com)! In my capstone project for the bootcamp -- titled **DeepChef** -- I harness the power of state-of-the-art large langue models and semantic embeddings to create a recommender system that takes in users' favorite recipes -- ingredients or instructions, along with themes or other elements -- and returns the 5-most similar recipes from the dataset. Another recommender system further enhances this by taking into account nutritional facts about recipes as well. I'm hoping to incorporate all of the relevant codes into a user-friendly app that people can use at their convenience. To follow the most recent updates on DeepChef, follow [this repository](https://github.com/amirkiaml/DeepChef-BSTN-Capstone).
-
 
 ## 🛠️ Languages and Tools
 In data science, I have used the following tools, some more than others:
@@ -49,8 +44,16 @@ In data science, I have used the following tools, some more than others:
 - **Web Scraping:** Scrapy, Selenium
 - **Big Data:** Hadoop, Spark
 
+## 🤖 Projects
 
-## 📚 Books
+### DeepChef
+
+🍔 I'm in the final stages of creating a recommender system on a dataset of over 520k recipes scraped from [food.com](www.food.com)! In my capstone project for the bootcamp -- titled **DeepChef** -- I harness the power of state-of-the-art large langue models and semantic embeddings to create a recommender system that takes in users' favorite recipes -- ingredients or instructions, along with themes or other elements -- and returns the 5-most similar recipes from the dataset. Another recommender system further enhances this by taking into account nutritional facts about recipes as well. I'm hoping to incorporate all of the relevant codes into a user-friendly app that people can use at their convenience. To follow the most recent updates on DeepChef, follow [this repository](https://github.com/amirkiaml/DeepChef-BSTN-Capstone).
+
+### 🧠 DeepAnalytic
+The description will be added soon...
+
+### 📚 Books
 
 I recently published a book on the mathematics of data science -- *No Bullshit Math for Data Science*. 
 
@@ -60,10 +63,10 @@ I recently published a book on the mathematics of data science -- *No Bullshit M
 
 The book is available on Amazon for purchase. Check out [this link](https://mathanddata.com/bookstore/) for more info and a sample chapter.
 
-## 📝 Blogs
+### 📝 Blogs
 I run two blogs: one on the mathematical foundations of data science, and another on the philosophical dimension of data science.
 
-### ∑ ➗ Math and Data
+#### ∑ ➗ Math and Data
 My blog on the mathematics of data science is [mathanddata.com](https://mathanddata.com/). Here I used leverage my mathematics and data science background, and do further research on producing content on various topics in the crossovers of mathematics and data science. Some of the recent blog posts are as follows:
 
 - [Descriptive and Inferential Statistic](https://mathanddata.com/2023/07/descriptive-and-inferential-statistics-2/)
@@ -71,7 +74,7 @@ My blog on the mathematics of data science is [mathanddata.com](https://mathandd
 - [Book Review: “A Guide for Making Black Box Models Explainable”](https://mathanddata.com/2023/03/book-review-a-guide-for-making-black-box-models-explainable/)
 
 
-### 💭 Philosophy and Data
+#### 💭 Philosophy and Data
 I occasionally write articles on Medium around data citizenship, IT Ethics, and other philosophically important issues related to data. Check out my blog, [philanddata.medium.com](https://philanddata.medium.com). My most recent blogs are as follows:
 
 - [Grassroots Movements in Social Impact Tech: Characteristics and Challenges](https://philanddata.medium.com/grassroots-movements-in-social-impact-tech-characteristics-and-challenges-28a3c4283808)
@@ -79,9 +82,10 @@ I occasionally write articles on Medium around data citizenship, IT Ethics, and 
 - [Data Privacy and Ethics
 ](https://philanddata.medium.com/data-privacy-and-ethics-6f4ca517dcae)
 
-### 🌱 Voluntary Blogs
+#### 🌱 Voluntary Blogs
 I also sometimes write voluntary content on the subject for non-for-profit organizations such as the [Centre for Social Impact Technology](https://centreforsocialimpacttech.ca/). Here's the most recent one:
 - [Data Citizenship at Large and in Alberta](https://www.centreforsocialimpacttech.ca/2023/04/13/data-citizenship-at-large-and-in-alberta)
+
 
 ## 📧 Contact 
 You can reach me via [ahosseinkiani@gmail.com](ahosseinkiani@gmail.com) or on [LinkedIn](www.linkedin.com/in/amirhossein-kiani)
