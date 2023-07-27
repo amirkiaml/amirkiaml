@@ -45,7 +45,7 @@ In data science, I have used the following tools, some more than others:
 - **Big Data:** Hadoop, Spark
 
 ## 🎓 Educational Background
-I did my undergraduate degree in Mathematics and Applications, MA and PhD in Philosophy. If you'd like to learn in more detail about my background education and the wide range of soft and hard industry-valued skills that I have acquired throughout the years, check out [this page](https://github.com/amirkiaml/Educational-Background).
+I did my undergraduate degree in Mathematics and Applications, MA and PhD in Philosophy. If you'd like to learn in more detail about my background education and the wide range of soft and hard industry-valued skills that I have acquired throughout the years, check out [here](https://github.com/amirkiaml/Educational-Background).
 
 ## 📚 Books
 
