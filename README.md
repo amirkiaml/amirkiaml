@@ -51,13 +51,28 @@ In data science, I have used the following tools, some more than others:
 
 ### 🍔 DeepChef
 
-I'm in the final stages of creating a recommender system on a dataset of over 520k recipes scraped from [food.com](www.food.com)! In my capstone project for the bootcamp -- titled **DeepChef** -- I harness the power of state-of-the-art large langue models and semantic embeddings to create a recommender system that takes in users' favorite recipes -- ingredients or instructions, along with themes or other elements -- and returns the 5-most similar recipes from the dataset. Another recommender system further enhances this by taking into account nutritional facts about recipes as well. I'm hoping to incorporate all of the relevant codes into a user-friendly app that people can use at their convenience. To follow the most recent updates on DeepChef, follow [this repository](https://github.com/amirkiaml/DeepChef-BSTN-Capstone).
+I'm in the final stages of creating a recommender system on a dataset of over 520k recipes scraped from [food.com](www.food.com)! In my capstone project for the bootcamp -- titled **DeepChef** -- I harness the power of state-of-the-art large langue models and semantic embeddings to create a recommender system that takes in users' favorite recipes -- ingredients or instructions, along with themes or other elements -- and returns the 5-most similar recipes from the dataset. 
+
+Another recommender system further enhances this by taking into account nutritional facts about recipes as well. I'm hoping to incorporate all of the relevant codes into a user-friendly app that people can use at their convenience. To follow the most recent updates on DeepChef, follow [this repository](https://github.com/amirkiaml/DeepChef-BSTN-Capstone).
 
 ### <img src="https://1000logos.net/wp-content/uploads/2016/11/New-Google-Logo.jpg" alt="SciPy Icon" width="30" height="30" /> Google|BrainStation Industry Project
-The description will be added soon...
+
+Recently, I participated in a 24-hour hackathon hosted by **Google** and **BrainStation**, where we were asked to envision new ideas to educate users about AI-powered Google products while ensuring user trust and avoiding misunderstandings. Thanks to our amazing team, we were announced as the winner 🏆 of the contest. Our initial focus was to understand the key reasons behind the general population's mistrust in the use of AI. Through extensive research, we identified three significant factors contributing to this mistrust: the lack of transparency, concerns about privacy invasion, and the difficulty in establishing ground truth for evaluating AI algorithm results in products. Addressing these concerns is pivotal in building trust and confidence in AI technologies. 
+
+As a result, we introduced "Insights," a powerful widget integrated into the Google platform. "Insights" leverages the recent breakthrough in large language models to provide users with a unique glimpse behind the curtain, offering clear explanations of how AI enhances their experience, utilizes their data, and delivers the results they receive. With "Insights," we aim to foster transparency and empower users to confidently embrace AI-related features. To learn more about "Insights," check out the project's [dedicated GitHub repository](https://github.com/amirkiaml/Google-Industry-Day).
+
 
 ### 🧠 DeepAnalytic
-The description will be added soon...
+DeepAnalytic is an end-to-end project dedicated to my research project on utilizing LLMs for various use cases in the context of Analytic Philosophy. A large amount of specialized philosophical data has been scraped from leading academic journals. Various cutting-edge NLP tasks will be performed on the collected data, for purposes of research. At the moment, this project is on hold and will be resumed soon after my bootcamps ends, around early August.
+
+The metadata of 28 Springer Nature philosophical journals has been scraped. This records the metadata of around 800k pages of philosophical texts. The text data of other philosophical journals, from other publishers such as Oxford University Press, is also scraped. In particular, over 10k pages of papers from the leading journal *Analysis*, alongside their metadata, are scraped.
+
+Aside from the basic EDA and NLP analyses, various cutting-edge NLP tasks are scheduled to be performed on the scraped data in the near future. These tasks include:
+- Fine-tuning a sentence transformer on the specialized text data to create domain-specific vectorization, which will be used for topic modeling and semantic search purposes,
+- Creating philosophy-specific Natural Language Inference (NLI) datasets for benchmarking,
+- Question answering on philosophical text data.
+
+You can learn more about DeepAnalytic by checking out its dedicated repository, found [here](https://github.com/amirkiaml/DeepAnalytic).
 
 ## 📚 Books
 
@@ -70,7 +85,7 @@ I recently published a book on the mathematics of data science -- *No Bullshit M
 The book is available on Amazon for purchase. Check out [this link](https://mathanddata.com/bookstore/) for more info and a sample chapter.
 
 ## 📝 Blogs
-I run two blogs: one on the mathematical foundations of data science, and another on the philosophical dimension of data science.
+I run two blogs: one on the mathematical foundations of data science, and another on the philosophical dimension of data science. I also sometimes write voluntary content on the subject for non-for-profit organizations.
 
 ### ∑ ➗ Math and Data
 My blog on the mathematics of data science is [mathanddata.com](https://mathanddata.com/). Here I used leverage my mathematics and data science background, and do further research on producing content on various topics in the crossovers of mathematics and data science. Some of the recent blog posts are as follows:
@@ -89,7 +104,7 @@ I occasionally write articles on Medium around data citizenship, IT Ethics, and 
 ](https://philanddata.medium.com/data-privacy-and-ethics-6f4ca517dcae)
 
 ### 🌱 Voluntary Blogs
-I also sometimes write voluntary content on the subject for non-for-profit organizations such as the [Centre for Social Impact Technology](https://centreforsocialimpacttech.ca/). Here's the most recent one:
+As was mentioned above, I also sometimes write voluntary content on the subject for not-for-profits such as the [Centre for Social Impact Technology](https://centreforsocialimpacttech.ca/). Here's the most recent one:
 - [Data Citizenship at Large and in Alberta](https://www.centreforsocialimpacttech.ca/2023/04/13/data-citizenship-at-large-and-in-alberta)
 
 
