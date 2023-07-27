@@ -46,9 +46,9 @@ In data science, I have used the following tools, some more than others:
 
 ## 🤖 Projects
 
-### DeepChef
+### 🍔 DeepChef
 
-🍔 I'm in the final stages of creating a recommender system on a dataset of over 520k recipes scraped from [food.com](www.food.com)! In my capstone project for the bootcamp -- titled **DeepChef** -- I harness the power of state-of-the-art large langue models and semantic embeddings to create a recommender system that takes in users' favorite recipes -- ingredients or instructions, along with themes or other elements -- and returns the 5-most similar recipes from the dataset. Another recommender system further enhances this by taking into account nutritional facts about recipes as well. I'm hoping to incorporate all of the relevant codes into a user-friendly app that people can use at their convenience. To follow the most recent updates on DeepChef, follow [this repository](https://github.com/amirkiaml/DeepChef-BSTN-Capstone).
+I'm in the final stages of creating a recommender system on a dataset of over 520k recipes scraped from [food.com](www.food.com)! In my capstone project for the bootcamp -- titled **DeepChef** -- I harness the power of state-of-the-art large langue models and semantic embeddings to create a recommender system that takes in users' favorite recipes -- ingredients or instructions, along with themes or other elements -- and returns the 5-most similar recipes from the dataset. Another recommender system further enhances this by taking into account nutritional facts about recipes as well. I'm hoping to incorporate all of the relevant codes into a user-friendly app that people can use at their convenience. To follow the most recent updates on DeepChef, follow [this repository](https://github.com/amirkiaml/DeepChef-BSTN-Capstone).
 
 ### 🧠 DeepAnalytic
 The description will be added soon...
