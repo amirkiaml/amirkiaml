@@ -109,7 +109,7 @@ As was mentioned above, I also sometimes write voluntary content on the subject 
 
 
 # 📧 Contact 
-You can reach me via [ahosseinkiani@gmail.com](ahosseinkiani@gmail.com) or on [LinkedIn](www.linkedin.com/in/amirhossein-kiani)
+You can reach me via [ahosseinkiani@gmail.com](ahosseinkiani@gmail.com) or on [LinkedIn](www.linkedin.com/in/amirhossein-kiani).
 <!--
 **amirkiaml/amirkiaml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
