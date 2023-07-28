@@ -42,7 +42,7 @@ In data science, I have used the following tools, some more than others:
 - **Statistics:** Hypothesis Testing, A/B tests, Regression
 - **Data Visualization:** Tableau, Matplotlib, Plotly, Seaborn
 - **Neural Networks:** Tensorflow, Keras, PyTorch
-- **Cloud:** [GCP](https://www.credential.net/8c07723e-1300-4e20-a507-6d25224a5f3a?key=eef5f18219416f4ac0f44fa61fc4ccc6bb168b37a6d5bf53157056addad6f138) , AWS
+- **Cloud:** [GCP](https://www.credential.net/8c07723e-1300-4e20-a507-6d25224a5f3a?key=eef5f18219416f4ac0f44fa61fc4ccc6bb168b37a6d5bf53157056addad6f138), AWS
 - **NLP:** NLTK, spaCy, Gensim, HuggingFace, Transformers
 - **Web Scraping:** Scrapy, Selenium
 - **Big Data:** Hadoop, Spark
