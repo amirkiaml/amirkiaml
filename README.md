@@ -51,15 +51,24 @@ In data science, I have used the following tools, some more than others:
 
 ### 🍔 DeepChef
 
-I'm in the final stages of creating a recommender system on a dataset of over 520k recipes scraped from [food.com](www.food.com)! In my capstone project for the bootcamp -- titled **DeepChef** -- I harness the power of state-of-the-art large langue models and semantic embeddings to create a recommender system that takes in users' favorite recipes -- ingredients or instructions, along with themes or other elements -- and returns the 5-most similar recipes from the dataset. 
+I created a recommender system on a dataset of over 520k recipes scraped from [food.com](www.food.com) as my capstone project for the bootcamp -- titled **DeepChef**. DeepChef I harnesses the power of state-of-the-art large langue models and semantic embeddings to create a recommender system that takes in users' favorite recipes -- ingredients or instructions, along with themes or other elements -- and returns the 5-most similar recipes from the dataset. To follow the most recent updates on DeepChef, check out [this repository](https://github.com/amirkiaml/DeepChef-BSTN-Capstone). 
 
-Another recommender system further enhances this by taking into account nutritional facts about recipes as well. I'm hoping to incorporate all of the relevant codes into a user-friendly app that people can use at their convenience. To follow the most recent updates on DeepChef, follow [this repository](https://github.com/amirkiaml/DeepChef-BSTN-Capstone).
+#### 🎮 Streamlit app 
+I have deployed the recommender system from Notebooks 5 and 6 into an online interactive app that can be accessed through this address: https://deepchef.streamlit.app.
 
-### <img src="https://1000logos.net/wp-content/uploads/2016/11/New-Google-Logo.jpg" alt="SciPy Icon" width="30" height="30" /> Google|BrainStation Industry Project
+<img src="https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Deepchef.png" alt="DeepChef Logo" width="750" height="550" />
 
-Recently, I participated in a 24-hour hackathon hosted by **Google** and **BrainStation**, where we were asked to envision new ideas to educate users about AI-powered Google products while ensuring user trust and avoiding misunderstandings. Thanks to our amazing team, we were announced as the winner 🏆 of the contest. Our initial focus was to understand the key reasons behind the general population's mistrust in the use of AI. Through extensive research, we identified three significant factors contributing to this mistrust: the lack of transparency, concerns about privacy invasion, and the difficulty in establishing ground truth for evaluating AI algorithm results in products. Addressing these concerns is pivotal in building trust and confidence in AI technologies. 
+In order to assure the app is up and running on Streamlit's website, I have deployed the recommender system only on 10% of the data that was originally curated for this purpose (see Notebook 6 of the project's repo). I hope to be able to scale the model in the near future.
+
+### <img src="https://1000logos.net/wp-content/uploads/2016/11/New-Google-Logo.jpg" alt="SciPy Icon" width="28" height="29" /> Google|BrainStation Industry Project
+
+Recently, I participated in a 24-hour hackathon hosted by **Google** and **BrainStation**, where we were asked to envision new ideas to educate users about AI-powered Google products while ensuring user trust and avoiding misunderstandings. Thanks to our amazing team, we were announced as the winner 🏆 of the contest. Our initial focus was to understand the key reasons behind the general population's mistrust in the use of AI. Through extensive research, we identified three significant factors contributing to this mistrust: the lack of transparency, concerns about privacy invasion, and the difficulty in establishing ground truth for evaluating AI algorithm results in products. Addressing these concerns is pivotal in building trust and confidence in AI technologies.
+
+![image](https://drive.google.com/uc?id=1ZkstOvPhPW3dJyoJDZ1Udwq5JxAjQgMN)
 
 As a result, we introduced "Insights," a powerful widget integrated into the Google platform. "Insights" leverages the recent breakthrough in large language models to provide users with a unique glimpse behind the curtain, offering clear explanations of how AI enhances their experience, utilizes their data, and delivers the results they receive. With "Insights," we aim to foster transparency and empower users to confidently embrace AI-related features. To learn more about "Insights," check out the project's [dedicated GitHub repository](https://github.com/amirkiaml/Google-Industry-Day).
+
+![image](https://github.com/amirkiaml/Google-Industry-Day/blob/main/Image.png)
 
 
 ### 🧠 DeepAnalytic
@@ -79,8 +88,10 @@ You can learn more about DeepAnalytic by checking out its dedicated repository, 
 I recently published a book on the mathematics of data science -- *No Bullshit Math for Data Science*. 
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://mathanddata.com/wp-content/uploads/2023/05/book-cover-1-233x300-2.png"
+  <img src="https://mathanddata.com/wp-content/uploads/2023/05/book-cover-1-233x300-2.png" alt="Book Cover" style="max-width: 100%; height: auto;">
 </div>
+
+
 
 The book is available on Amazon for purchase. Check out [this link](https://mathanddata.com/bookstore/) for more info and a sample chapter.
 
