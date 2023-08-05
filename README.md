@@ -58,7 +58,7 @@ I have deployed the recommender system from Notebooks 5 and 6 into an online int
 
 Check out a demo video on DeepChef:
 
-https://www.loom.com/share/350eed0ce28c43e297ea78e6ede7d694
+![image](https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Deepchef.png?raw=true)
 
 In order to assure the app is up and running on Streamlit's website, I have deployed the recommender system only on 10% of the data that was originally curated for this purpose (see Notebook 6 of the project's repo). I hope to be able to scale the model in the near future.
 
