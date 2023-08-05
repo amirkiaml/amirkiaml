@@ -90,11 +90,10 @@ I recently published a book on the mathematics of data science -- *No Bullshit M
 </div>
 
 
-
 The book is available on Amazon for purchase. Check out [this link](https://mathanddata.com/bookstore/) for more info and a sample chapter.
 
 ## 📝 Blogs
-I run two blogs: one on the mathematical foundations of data science, and another on the philosophical dimension of data science. I also sometimes write voluntary content on the subject for non-for-profit organizations.
+I run two blogs: one on the mathematical foundations of data science, and another on the philosophical dimension of data science. I also sometimes write voluntary content on the subject for not-for-profit organizations.
 
 ### ∑ ➗ Math and Data
 My blog on the mathematics of data science is [mathanddata.com](https://mathanddata.com/). Here I used leverage my mathematics and data science background, and do further research on producing content on various topics in the crossovers of mathematics and data science. Some of the recent blog posts are as follows:
