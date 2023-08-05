@@ -56,7 +56,9 @@ I created a recommender system on a dataset of over 520k recipes scraped from [f
 #### 🎮 Streamlit app 
 I have deployed the recommender system from Notebooks 5 and 6 into an online interactive app that can be accessed through this address: https://deepchef.streamlit.app.
 
-<img src="https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Deepchef.png" alt="DeepChef Logo" width="750" height="550" />
+Check out a demo video on DeepChef:
+
+https://www.loom.com/share/350eed0ce28c43e297ea78e6ede7d694
 
 In order to assure the app is up and running on Streamlit's website, I have deployed the recommender system only on 10% of the data that was originally curated for this purpose (see Notebook 6 of the project's repo). I hope to be able to scale the model in the near future.
 
