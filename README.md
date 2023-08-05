@@ -1,14 +1,15 @@
 # 🌟 Introduction 
-Hi there 👋, and welcome to my GitHub! Amir here, a data scientist, math nerd and philosopher by training. I love all things data but particularly find Natural language Processing (NLP) very fascinating. On the philosophical side of things, I like diving deep into questions of machine consciousness, AI safety and IT ethics.
+Hi there! Amir here, a data scientist with academic background in math and philosophy. I love all things data but particularly find Natural language Processing (NLP) very fascinating. On the philosophical side of things, I like diving deep into questions of machine consciousness, AI safety and IT ethics.
 
 
 📝 [Resume](https://drive.google.com/file/d/1QQ-z0egQ1FxNfh524CNykZZURG-zXmWJ/view?usp=sharing)
 
-
+<!--
 <div style="display: flex; justify-content: center;">
   <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"
        alt="GIF" width="350" height="250" style="margin: 0 auto;" />
 </div>
+-->
 
 # 🎓 Educational Background
 I did my undergraduate degree in Mathematics and Applications, MA and PhD in Philosophy. If you'd like to learn in more detail about my background education and the wide range of soft and hard industry-valued skills that I have acquired throughout the years, check out [here](https://github.com/amirkiaml/Educational-Background).
@@ -53,8 +54,7 @@ In data science, I have used the following tools, some more than others:
 
 I created a recommender system on a dataset of over 520k recipes scraped from [food.com](www.food.com) as my capstone project for the bootcamp -- titled **DeepChef**. DeepChef I harnesses the power of state-of-the-art large langue models and semantic embeddings to create a recommender system that takes in users' favorite recipes -- ingredients or instructions, along with themes or other elements -- and returns the 5-most similar recipes from the dataset. To follow the most recent updates on DeepChef, check out [this repository](https://github.com/amirkiaml/DeepChef-BSTN-Capstone). 
 
-#### 🎮 Streamlit app 
-I have deployed the recommender system from Notebooks 5 and 6 into an online interactive app that can be accessed through this address: https://deepchef.streamlit.app.
+I have also deployed the recommender system from Notebooks 5 and 6 into an online interactive app that can be accessed through this address: https://deepchef.streamlit.app.
 
 <img src="https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Deepchef.png?raw=true" alt="SciPy Icon" width="350" height="400" />
 
