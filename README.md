@@ -14,9 +14,9 @@ Hi there! Amir here, a data scientist with academic background in math and philo
 # 🎓 Educational Background
 I did my undergraduate degree in Mathematics and Applications, MA and PhD in Philosophy. If you'd like to learn in more detail about my background education and the wide range of soft and hard industry-valued skills that I have acquired throughout the years, check out [here](https://github.com/amirkiaml/Educational-Background).
 
-# 📊 Data Science
+# 📊 Data Science and Analysis
 
-Currently, I'm finishing up a 3-month bootcamp in data science offered by BrainStation <img src="https://coursereport-production.imgix.net/uploads/school/logo/62/original/blacksquare-logo.jpg?w=72&h=72" alt="SciPy Icon" width="20" height="20" />. This has been an incredible journey, and certainly a significant transition from academia. I have had the chance to learn various technical and soft skills and leverage the ones that I had acquired in my academic career, in this journey. 
+I recently finished a 3-month bootcamp in data science offered by BrainStation <img src="https://coursereport-production.imgix.net/uploads/school/logo/62/original/blacksquare-logo.jpg?w=72&h=72" alt="SciPy Icon" width="20" height="20" />. This was an incredible journey, and certainly a significant transition from academia. I have had the chance to learn various technical and soft skills and leverage the ones that I had acquired in my academic career, in this journey. 
 
 ## 🛠️ Languages and Tools
 In data science, I have used the following tools, some more than others:
@@ -80,6 +80,12 @@ Aside from the basic EDA and NLP analyses, various cutting-edge NLP tasks are sc
 - Question answering on philosophical text data.
 
 You can learn more about DeepAnalytic by checking out its dedicated repository, found [here](https://github.com/amirkiaml/DeepAnalytic).
+
+### 🔍 SQL End-to-End Projects
+Before and during my Data Science bootcamp at BrainStation, I carried out several end-to-end data analysis projects using SQL. Currently, I'm preparing the projects before making them available to the public. Please stay tuned and follow [this](https://github.com/amirkiaml/SQL-projects) repository for updates in the near future.
+
+### 📉 Data Visualization and Dashboarding
+Before and during my Data Science bootcamp at BrainStation, I carried out a few end-to-end data visualization projects and created dashboards using Tableau. Currently, I'm preparing the projects before making them available to the public. Please stay tuned and follow [this](https://github.com/amirkiaml/Data-Visualization) repository for updates in the near future
 
 ## 📚 Books
 
