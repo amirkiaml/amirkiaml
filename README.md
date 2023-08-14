@@ -38,15 +38,15 @@ In data science, I have used the following tools, some more than others:
 <img src="https://camo.githubusercontent.com/55336973a5c752995e40ccec95502a4aa6b3d091ff52741bc59456d61c67b7e5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6170616368655f6861646f6f702f6170616368655f6861646f6f702d69636f6e2e737667" alt="SciPy Icon" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="NumPy Icon (Raw SVG)" width="40" height="40" />
 
-- **Database:** MySQL, PostgreSQL
-- **Programming:** Python, R, Bash,
-- **Statistics:** Hypothesis Testing, A/B tests, Regression
-- **Data Visualization:** Tableau, Matplotlib, Plotly, Seaborn
-- **Neural Networks:** Tensorflow, Keras, PyTorch
-- **Cloud:** [GCP](https://www.credential.net/8c07723e-1300-4e20-a507-6d25224a5f3a?key=eef5f18219416f4ac0f44fa61fc4ccc6bb168b37a6d5bf53157056addad6f138), AWS
-- **NLP:** NLTK, spaCy, Gensim, HuggingFace, Transformers
-- **Web Scraping:** Scrapy, Selenium
-- **Big Data:** Hadoop, Spark
+- **Database:** `MySQL`, `PostgreSQL`
+- **Programming:** `Python`, `R`, `Bash`,
+- **Statistics:** `Hypothesis Testing`, `A/B tests`, `Regression`
+- **Data Visualization:** `Tableau`, `Matplotlib`, `Plotly`, `Seaborn`
+- **Neural Networks:** `Tensorflow`, `Keras`, `PyTorch`
+- **Cloud:** [`GCP`](https://www.credential.net/8c07723e-1300-4e20-a507-6d25224a5f3a?key=eef5f18219416f4ac0f44fa61fc4ccc6bb168b37a6d5bf53157056addad6f138), `AWS`
+- **NLP:** `NLTK`, `spaCy`, `Gensim`, `HuggingFace Transformers`
+- **Web Scraping:** `Scrapy`, `Selenium`
+- **Big Data:** `Hadoop`, `Spark`
 
 ## 🤖 Projects
 
