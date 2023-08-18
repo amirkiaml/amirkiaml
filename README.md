@@ -114,6 +114,7 @@ My blog on the mathematics of data science is [mathanddata.com](https://mathandd
 ### 💭 Philosophy and Data
 I occasionally write articles on Medium around data citizenship, IT Ethics, and other philosophically important issues related to data. Check out my blog, [philanddata.medium.com](https://philanddata.medium.com). My most recent blogs are as follows:
 
+- [Unleashing the Power of Data in Evidence-Based Policymaking: Navigating Complex Terrain](https://philanddata.medium.com/unleashing-the-power-of-data-in-evidence-based-policymaking-navigating-complex-terrain-5eb3bb8143cc)
 - [Grassroots Movements in Social Impact Tech: Characteristics and Challenges](https://philanddata.medium.com/grassroots-movements-in-social-impact-tech-characteristics-and-challenges-28a3c4283808)
 - [Chomsky et. al Against Large Language Models — A Response](https://philanddata.medium.com/chomsky-et-al-against-large-language-models-a-response-6bca8c3304f2)
 - [Data Privacy and Ethics
