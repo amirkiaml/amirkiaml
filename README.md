@@ -16,7 +16,7 @@ Hi there! Amir here, a data scientist with academic background in math and philo
 # 🎓 Educational Background
 I did my undergraduate degree in Mathematics and Applications, MA and PhD in Philosophy. If you'd like to learn in more detail about my background education and the wide range of soft and hard industry-valued skills that I have acquired throughout the years, check out [here](https://github.com/amirkiaml/Educational-Background).
 
-# 📊 Data Science and Analysis
+# 📊 Data Science 
 
 I recently finished a 3-month bootcamp in data science offered by BrainStation <img src="https://coursereport-production.imgix.net/uploads/school/logo/62/original/blacksquare-logo.jpg?w=72&h=72" alt="SciPy Icon" width="20" height="20" />. This was an incredible journey, and certainly a significant transition from academia. I have had the chance to learn various technical and soft skills and leverage the ones that I had acquired in my academic career, in this journey. 
 
@@ -83,12 +83,6 @@ Aside from the basic EDA and NLP analyses, various cutting-edge NLP tasks are sc
 
 You can learn more about DeepAnalytic by checking out its dedicated repository, found [here](https://github.com/amirkiaml/DeepAnalytic).
 
-### 🔍 SQL End-to-End Projects
-Before and during my Data Science bootcamp at BrainStation, I carried out several end-to-end data analysis projects using SQL. Currently, I'm preparing the projects before making them available to the public. Please stay tuned and follow [this](https://github.com/amirkiaml/SQL-projects) repository for updates in the near future.
-
-### 📉 Data Visualization and Dashboarding
-Before and during my Data Science bootcamp at BrainStation, I carried out a few end-to-end data visualization projects and created dashboards using Tableau. Currently, I'm preparing the projects before making them available to the public. Please stay tuned and follow [this](https://github.com/amirkiaml/Data-Visualization) repository for updates in the near future
-
 ## 📚 Books
 
 I recently published a book on the mathematics of data science -- *No Bullshit Math for Data Science*. 
@@ -96,12 +90,8 @@ I recently published a book on the mathematics of data science -- *No Bullshit M
 <div style="display: flex; justify-content: center;">
   <img src="https://mathanddata.com/wp-content/uploads/2023/05/book-cover-1-233x300-2.png" alt="Book Cover" style="max-width: 100%; height: auto;">
 </div>
-
-
 The book is available on Amazon for purchase. Check out [this link](https://mathanddata.com/bookstore/) for more info and a sample chapter.
 
-## 📝 Blogs
-I run two blogs: one on the mathematical foundations of data science, and another on the philosophical dimension of data science. I also sometimes write voluntary content on the subject for not-for-profit organizations.
 
 ### ∑ ➗ Math and Data
 My blog on the mathematics of data science is [mathanddata.com](https://mathanddata.com/). Here I used leverage my mathematics and data science background, and do further research on producing content on various topics in the crossovers of mathematics and data science. Some of the recent blog posts are as follows:
@@ -111,8 +101,18 @@ My blog on the mathematics of data science is [mathanddata.com](https://mathandd
 - [Book Review: “A Guide for Making Black Box Models Explainable”](https://mathanddata.com/2023/03/book-review-a-guide-for-making-black-box-models-explainable/)
 
 
-### 💭 Philosophy and Data
-I occasionally write articles on Medium around data citizenship, IT Ethics, and other philosophically important issues related to data. Check out my blog, [philanddata.medium.com](https://philanddata.medium.com). My most recent blogs are as follows:
+# 📈 Data Analysis 
+
+## 🔍 SQL End-to-End Projects
+Before and during my Data Science bootcamp at BrainStation, I carried out several end-to-end data analysis projects using SQL. Currently, I'm preparing the projects before making them available to the public. Please stay tuned and follow [this](https://github.com/amirkiaml/SQL-projects) repository for updates in the near future.
+
+## 📉 Data Visualization and Dashboarding
+Before and during my Data Science bootcamp at BrainStation, I carried out a few end-to-end data visualization projects and created dashboards using Tableau. Currently, I'm preparing the projects before making them available to the public. Please stay tuned and follow [this](https://github.com/amirkiaml/Data-Visualization) repository for updates in the near future
+
+# 📜 Social and Philosophical Aspects of Data
+
+## 💭 Philosophy and Data
+I occasionally write articles on Medium around data citizenship, data and policy, IT Ethics, and other philosophically important issues related to data. Check out my blog, [philanddata.medium.com](https://philanddata.medium.com). My most recent blogs are as follows:
 
 - [Unleashing the Power of Data in Evidence-Based Policymaking: Navigating Complex Terrain](https://philanddata.medium.com/unleashing-the-power-of-data-in-evidence-based-policymaking-navigating-complex-terrain-5eb3bb8143cc)
 - [Grassroots Movements in Social Impact Tech: Characteristics and Challenges](https://philanddata.medium.com/grassroots-movements-in-social-impact-tech-characteristics-and-challenges-28a3c4283808)
