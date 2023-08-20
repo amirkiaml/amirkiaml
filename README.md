@@ -20,7 +20,8 @@ Hi there! Amir here, a data scientist with an academic background in math and ph
 - `analytical thinking`
 -  `time management`
 -  `project management`
--  `quantitative and qualitative reasoning`
+-  `quantitative reasoning`
+-  `qualitative reasoning`
 -  `research`
 
 📝[Academic CV](https://drive.google.com/file/d/1ITlkwcnUVF85qjkpPhkJ4s8CWt6H3TVl/view?usp=sharing)
