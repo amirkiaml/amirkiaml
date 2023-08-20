@@ -75,13 +75,13 @@ The program was research-intensive, but some of the courses that I took:
 - Epistemology
 - Metaphysics
 
-### Teaching
-I had a chance to teach a graduate-level logic [course](http://amirkiani.ucalgaryblogs.ca/files/2020/10/Course-Description.pdf), focused on modern modal logics and their semantics, to over 10 masters and PhD students from various disciplines (philosophy, mathematics and semiotics). 
-
 ### Research
 In my MA thesis, titled *Perception, Abductive Methodology, and Compositional Universalism*, I proposed a few arguments for a major argument in metaphysics -- *compositional universalism* -- according to which any plurality of objects constitutes an object. You can find my MA thesis [here](http://amirkiani.ucalgaryblogs.ca/files/2020/10/MA-Thesis.pdf).
 
 I was the only MA student to collaborate with 6 philosophers in a highly sought-after [research project](https://philexpertise.weebly.com/people.html) on the nature of controversy in philosophical debates, leading to several high-impact publications in leading journals.
+
+### Teaching
+I had a chance to teach a graduate-level logic [course](http://amirkiani.ucalgaryblogs.ca/files/2020/10/Course-Description.pdf), focused on modern modal logics and their semantics, to over 10 masters and PhD students from various disciplines (philosophy, mathematics and semiotics). 
 
 ### Awards
 During my MA program, I was awarded several scholarships, worth over $24,000; some of them are as follows:
