@@ -36,11 +36,13 @@ Hi there! Amir here, a data scientist with an academic background in math and ph
 Before transitioning into Data Science, I spent over 12 years in academia. I did a BSc in Mathematics, an MA and a PhD in Philosophy. Throughout these years I acquired a wide range of hard and soft skills that are transferrable in industry. In short, some of these skills are as follows:
     
 - `analytical thinking`
+- `problem solving`
 -  `time management`
 -  `project management`
 -  `quantitative reasoning`
 -  `qualitative reasoning`
 -  `research`
+-  `literature review`
 
 To learn more about these, as well as my academic history, awards, and publications, check out [this repository](https://github.com/amirkiaml/Educational-Background/tree/main).
 
