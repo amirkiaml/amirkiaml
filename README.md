@@ -1,7 +1,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=amirkiaml&style=flat-square&color=blue)
 
-<details>
-<summary><h1>Table of Contents</h1></summary>
+# 📋 Table of Contents
 
 - [Introduction](#introduction)
 - [Academic Background and Transferrable Skills](#academic)
@@ -23,7 +22,6 @@
     - [*Phil and Data* Blog](#philanddata)
     - [Voluntary Blogs](#voluntary)
 
-</details>
 
 # 🌟 Introduction <a name="introduction"></a>
 Hi there! Amir here, a data scientist with an academic background in math and philosophy. I love all things data but particularly find Natural language Processing (NLP) very fascinating. On the philosophical side of things, I like diving deep into questions of machine consciousness, social impact tech, AI safety, and IT ethics.
