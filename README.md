@@ -82,7 +82,7 @@ I created a recommender system on a dataset of over 520k recipes scraped from [f
 I have also deployed the recommender system from Notebooks 5 and 6 into an online interactive app that can be accessed through this address: https://deepchef.streamlit.app.
 
 <div align="center">
-  <img src="https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Deepchef.png?raw=true" alt="SciPy Icon" width="350" height="400" />
+  <img src="https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Deepchef.png?raw=true" alt="SciPy Icon" width="600" height="400" />
 </div>
 
 
