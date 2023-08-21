@@ -124,13 +124,13 @@ You can learn more about DeepAnalytic by checking out its dedicated repository, 
 
 ### 4. 📚 Book <a name="book"></a>
 
-I recently published a book on the mathematics of data science -- *No Bullshit Math for Data Science*. 
+I recently published a book on the mathematics of data science -- *No Bullshit Math for Data Science*. The book has two parts. Part I explores the core mathematics at use in data science. It dives deep into the nitty-gritty of key subjects like `Linear Algebra`, `Calculus`, `Statistics` and `Probability Theory`. Part II builds upon the knowledge gained in the first part and explores the underlying mathematics of some of the well-known machine learning algorithms and models, such as `Regression`, `Tree Methods`, `Support Vector Machines`, `Clustering`, `PCA`, and `Neural Networks`. The book also provides sample codes to implement each of the algorithms in the programming language Python.
 
 <div align="center">
   <img src="https://mathanddata.com/wp-content/uploads/2023/05/book-cover-1-233x300-2.png" alt="Book Cover" style="max-width: 100%; height: auto;">
 </div>
-  
-The book is available on Amazon for purchase. Check out https://mathanddata.com/bookstore/ for more info and a sample chapter. I'm currently looking into writing the second volume of this book.
+
+- The book is available on Amazon for purchase. Check out https://mathanddata.com/bookstore/ for more info and a sample chapter. I'm currently looking into writing the second volume of this book.
 
 
 ### 5. ∑ ➗ Blog: Math and Data <a name="blog"></a>
