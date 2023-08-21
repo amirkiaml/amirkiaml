@@ -180,12 +180,6 @@ This project starts by understanding and exploring the data. I uncovered pattern
 BIXI Montreal (hereafter: Bixi), established in 2014 by the city of Montreal, is a non-profit organization responsible for overseeing the bike-sharing system. As of 2023, Bixi owns 10,000 bikes that can be accessed through nearly 800 stations. Our goal is to gain a high-level understanding of how people use Bixi bikes, what factors influence the volume of usage, popular stations, and overall business growth. The data used for this project is focused on April-November 2016 and
 2017.
 
-<div align="center">
-
-<img src="https://github.com/amirkiaml/media/blob/main/Bixi.png" alt="Bixi" width="900">
-
-</div>
-
 In this project, I seamlessly blended essential skills to conduct in-depth data analysis, harness interactive `Tableau visualizations`, and demonstrate proficient `SQL querying`. This dynamic trio formed the backbone of a thorough `exploratory analysis` of Bixi bike usage data. Through adept SQL utilization, I efficiently extracted, transformed, and prepared raw data for analysis, ensuring its conversion into valuable insights.
 
 Central to the project was the creation of an impactful visualization dashboard, designed meticulously to serve as a visually captivating and interactive platform for data exploration. The dashboard's unique feature of drill-down capabilities empowered users to navigate deeper into nuances of Bixi bike usage, unearthing hidden patterns and `trends` that evade casual observation.
@@ -194,9 +188,11 @@ The culmination of my work found its expression in `professional documentation`,
 
 
 # 📜 Social and Philosophical Aspects of Data  <a name="Social"></a>
+Aside from technical skills and projects in the data space, I regularly engage with less social, philosophical, and ethical sides of it too.
 
+![social_impact](https://github.com/amirkiaml/media/blob/main/social_impact.png)
 ## 💭 Blog: Phil and Data <a name="philanddata"></a>
-I occasionally write articles on Medium around data citizenship, data and policy, IT Ethics, and other philosophically important issues related to data. Check out my blog, [philanddata.medium.com](https://philanddata.medium.com). My most recent blogs are as follows:
+I occasionally write articles on Medium around data citizenship, policy, IT Ethics, and other socially and philosophically important issues related to data. Check out my blog, [philanddata.medium.com](https://philanddata.medium.com). My most recent blogs are as follows:
 
 - [Unleashing the Power of Data in Evidence-Based Policymaking: Navigating Complex Terrain](https://philanddata.medium.com/unleashing-the-power-of-data-in-evidence-based-policymaking-navigating-complex-terrain-5eb3bb8143cc)
 - [Chomsky et. al Against Large Language Models — A Response](https://philanddata.medium.com/chomsky-et-al-against-large-language-models-a-response-6bca8c3304f2)
@@ -204,7 +200,7 @@ I occasionally write articles on Medium around data citizenship, data and policy
 ](https://philanddata.medium.com/data-privacy-and-ethics-6f4ca517dcae)
 
 ## 🌱 Voluntary Blogs <a name="voluntary"></a>
-As was mentioned above, I also sometimes write voluntary content on the subject for not-for-profits such as the [Centre for Social Impact Technology](https://centreforsocialimpacttech.ca/). Here's are the most recent ones:
+I also sometimes write voluntary content on the subject for not-for-profits such as the [Centre for Social Impact Technology](https://centreforsocialimpacttech.ca/). Here's are the most recent ones:
 - [Grassroots Movements in Social Impact Tech: Characteristics and Challenges](https://philanddata.medium.com/grassroots-movements-in-social-impact-tech-characteristics-and-challenges-28a3c4283808)
 - [Data Citizenship at Large and in Alberta](https://www.centreforsocialimpacttech.ca/post/data-citizenship-at-large-and-in-alberta)
 </details>
