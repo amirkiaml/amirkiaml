@@ -135,11 +135,11 @@ For my project DeepChef I performed many data analysis operations and techniques
  Here is a summary of some of the steps taken:
 
 
-### [Data Wrangling and Imputation](https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Part%201%20-%20Scraping%20www.food.com.ipynb)
+#### [Data Wrangling and Imputation](https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Part%201%20-%20Scraping%20www.food.com.ipynb)
 - Scraped missing information o over 520,000 recipes from food.com for ingredient quantities and items.
 - Replaced several inaccurate columns, such as  RecipeIngredientQuantities and RecipeIngredientParts with newly scraped data.
 
-### [Exploratory Data Analysis on Enhanced Recipes](https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Part%202%20-%20Basic%20Data%20Cleaning.ipynb)
+#### [Exploratory Data Analysis on Enhanced Recipes](https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Part%202%20-%20Basic%20Data%20Cleaning.ipynb)
 - Explored basic statistics such as mean, median, and standard deviation of relevant variables.
 - Analyzed recipe categories and ingredient usage patterns.
 - Investigated common and unique ingredients in different categories.
@@ -150,12 +150,12 @@ For my project DeepChef I performed many data analysis operations and techniques
 - Use hypothesis testing to find relationships between author characteristics and recipe characteristics.
 - Conducted time series analysis to uncover trends in recipe publication over time.
 
-### [Topic Modeling with Bertopic](https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Part%203%20-%20Topic%20Modeling.ipynb)
+#### [Topic Modeling with Bertopic](https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Part%203%20-%20Topic%20Modeling.ipynb)
 - Clustered recipes based on their ingredient topics, revealing common themes within the dataset.
 - Extracted representative keywords for each topic, providing a clear understanding of main themes.
 - Visualized topic distribution and frequencies, facilitating exploration and interpretation.
 
-### [Conusion and Presentation](https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Part%204%20-%20EDA.ipynb)
+#### [Conusion and Presentation](https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Part%204%20-%20EDA.ipynb)
 - Compiled annotated Jupyter notebook with code.
 - Detailed step-by-step methodology explanation.
 - Presented insights from model evaluations.
