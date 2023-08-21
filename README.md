@@ -1,19 +1,34 @@
 ![Profile views](https://komarev.com/ghpvc/?username=amirkiaml&style=flat-square&color=blue)
 
-# 🌟 Introduction 
+# Table of Contents
+- [Introduction](#introduction)
+- [Academic Background and Transferrable Skills](#academic)
+- [Data Science](#DS)
+    - [Languages and Tools](#tools)
+    - [Projects](#dsprojects)
+        - [DeepChef](#deepchef)
+        - [Google|BrainStation Industry Hackathon](#Google)
+        - [DeepAnalytic](#deepanalytic)
+        - [Book](#book)
+        - [*Math and Data* Blog](#blog)
+- [Data Analysis](#DA)
+    - [Projects](#daprojects)
+        - [Analysis of Culinary Patterns](#culinary)
+        - [Sentiment Analysis on Hotel Reviews](#sentiment)
+        - [Predictive Analysis of West Nile Virus Spread](#virus)
+        - [Trend Analysis and Visualization of Bixi Bike Usage](#bixi)
+- [Social and Philosophical Aspects of Data](#Social)
+    - [*Phil and Data* Blog](#philanddata)
+    - [Voluntary Blogs](#voluntary)
+
+# 🌟 Introduction <a name="introduction"></a>
 Hi there! Amir here, a data scientist with an academic background in math and philosophy. I love all things data but particularly find Natural language Processing (NLP) very fascinating. On the philosophical side of things, I like diving deep into questions of machine consciousness, social impact tech, AI safety, and IT ethics.
 
 
 📝 [Resume](https://drive.google.com/file/d/1Y4zbtr-KFupsl7SbJ7vwL1zjxZ-dDcPP/view?usp=sharing)
 
-<!--
-<div style="display: flex; justify-content: center;">
-  <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"
-       alt="GIF" width="350" height="250" style="margin: 0 auto;" />
-</div>
--->
 
-# 🎓 Academic Background and Transferrable Skills
+# 🎓 Academic Background and Transferrable Skills <a name="academic"></a>
 
 Before transitioning into Data Science, I spent over 12 years of my life in academia. I did a BSc in Mathematics, an MA and a PhD in Philosophy. Throughout these years I acquired a wide range of hard and soft skills that are transferrable in industry. In short, some of these skills are as follows:
     
@@ -27,12 +42,12 @@ Before transitioning into Data Science, I spent over 12 years of my life in acad
 To learn more about these, as well as my academic history, awards, and publications, check out [this repository](https://github.com/amirkiaml/Educational-Background/tree/main).
 
 
-# 📊 Data Science Portfolio
+# 📊 Data Science <a name="DS"></a>
   
 I recently finished a 3-month bootcamp in data science offered by BrainStation <img src="https://coursereport-production.imgix.net/uploads/school/logo/62/original/blacksquare-logo.jpg?w=72&h=72" alt="SciPy Icon" width="20" height="20" />. This was an incredible journey, and certainly a significant transition from academia. I have had the chance to learn various technical and soft skills and leverage the ones that I had acquired in my academic career, in this journey. 
 
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages and Tools <a name="tools"></a>
   
 In data science, I have used the following tools, some more than others:
 <div align="center">
@@ -67,9 +82,9 @@ In data science, I have used the following tools, some more than others:
 - **Big Data:** `Hadoop`, `Spark`
 
 
-# 🤖 Projects
+## Projects <a name="dsprojects"></a>
 
-## 1. 🍔 DeepChef
+### 1. 🍔 DeepChef <a name="deepchef"></a>
 
 I created a recommender system on a dataset of over 520k recipes scraped from [food.com](www.food.com) as my capstone project for the bootcamp -- titled **DeepChef**. DeepChef I harnesses the power of state-of-the-art large langue models and semantic embeddings to create a recommender system that takes in users' favorite recipes -- ingredients or instructions, along with themes or other elements -- and returns the 5-most similar recipes from the dataset. To follow the most recent updates on DeepChef, check out [this repository](https://github.com/amirkiaml/DeepChef-BSTN-Capstone). 
 
@@ -82,7 +97,7 @@ I have also deployed the recommender system from Notebooks 5 and 6 into an onlin
 
 In order to assure the app is up and running on Streamlit's website, I have deployed the recommender system only on 10% of the data that was originally curated for this purpose (see Notebook 6 of the project's repo). I hope to be able to scale the model in the near future.
 
-## 2. <img src="https://1000logos.net/wp-content/uploads/2016/11/New-Google-Logo.jpg" alt="SciPy Icon" width="28" height="29" /> Google|BrainStation Industry Project
+### 2. <img src="https://1000logos.net/wp-content/uploads/2016/11/New-Google-Logo.jpg" alt="SciPy Icon" width="28" height="29" /> Google|BrainStation Industry Hackathon <a name="Google"></a>
 
 Recently, I participated in a 24-hour hackathon hosted by **Google** and **BrainStation**, where we were asked to envision new ideas to educate users about AI-powered Google products while ensuring user trust and avoiding misunderstandings. Thanks to our amazing team, we were announced as the winner 🏆 of the contest. Our initial focus was to understand the key reasons behind the general population's mistrust in the use of AI. Through extensive research, we identified three significant factors contributing to this mistrust: the lack of transparency, concerns about privacy invasion, and the difficulty in establishing ground truth for evaluating AI algorithm results in products. Addressing these concerns is pivotal in building trust and confidence in AI technologies.
 
@@ -93,7 +108,7 @@ As a result, we introduced "Insights," a powerful widget integrated into the Goo
 ![image](https://github.com/amirkiaml/Google-Industry-Day/blob/main/Image.png)
 </div>
 
-## 3. 🧠 DeepAnalytic
+### 3. 🧠 DeepAnalytic <a name="deepanalytic"></a>
 DeepAnalytic is an end-to-end project dedicated to my research project on utilizing LLMs for various use cases in the context of Analytic Philosophy. A large amount of specialized philosophical data has been scraped from leading academic journals. Various cutting-edge NLP tasks will be performed on the collected data, for purposes of research.
 
 The metadata of 28 Springer Nature philosophical journals has been scraped. This records the metadata of around 800k pages of philosophical texts. The text data of other philosophical journals, from other publishers such as Oxford University Press, is also scraped. In particular, over 10k pages of papers from the leading journal *Analysis*, alongside their metadata, are scraped.
@@ -105,7 +120,7 @@ Aside from the basic EDA and NLP analyses, various cutting-edge NLP tasks are sc
 
 You can learn more about DeepAnalytic by checking out its dedicated repository, found [here](https://github.com/amirkiaml/DeepAnalytic).
 
-## 4. 📚 Book 
+### 4. 📚 Book <a name="book"></a>
 
 I recently published a book on the mathematics of data science -- *No Bullshit Math for Data Science*. 
 
@@ -116,7 +131,7 @@ I recently published a book on the mathematics of data science -- *No Bullshit M
 The book is available on Amazon for purchase. Check out https://mathanddata.com/bookstore/ for more info and a sample chapter. I'm currently looking into writing the second volume of this book.
 
 
-## 5. ∑ ➗ Blog 
+### 5. ∑ ➗ *Math and Data* Blog <a name="blog"></a>
 
 I run a blog on the mathematics of data science: [mathanddata.com](https://mathanddata.com/). Here I leverage my mathematics and data science background and do further research on producing content on various topics in the crossovers of mathematics and data science. Some of the recent blog posts are as follows:
 
@@ -125,9 +140,15 @@ I run a blog on the mathematics of data science: [mathanddata.com](https://matha
 - [Book Review: “A Guide for Making Black Box Models Explainable”](https://mathanddata.com/2023/03/book-review-a-guide-for-making-black-box-models-explainable/)
 </details>
 
-# 📈 Data Analysis Portfolio
+# 📈 Data Analysis <a name="DA"></a>
 
-## 1. Analysis of Culinary Habits and Patterns
+For my data analysis projects, I have used most of the same tools listed for Data Science. Here are some of the projects that I have worked on. 
+
+**NOTE:** Several of the following projects were carried out as part of BrainStation bootcamp, and I cannot share the source codes, visualizations or reports with the public, as they can be reused by the next cohorts' students. If you're recruiter or anyoneone else other than a current Data Science students at BrainStation, feel free to request a copy of the relevant files.
+
+# Projects <a name="daprojects"></a>
+
+## 1. Analysis of Culinary Patterns <a name="culinary"></a>
 For my capstone project, DeepChef, I performed many data analysis tasks. 
 <div align="center">
 
@@ -138,7 +159,7 @@ For the data analysis side of things, I embarked on an extensive exploration thr
 
 
   
-## 2. Sentiment Analysis on Hotel Reviews
+## 2. Sentiment Analysis on Hotel Reviews <a name="sentiment"></a>
  This project involves analyzing hotel review data using Natural Language Processing (NLP) techniques. The project is divided into several steps, starting with Exploratory Data Analysis (EDA) and progressing to data augmentation, modeling, and iterative improvements.
 
 <div align="center">
@@ -149,7 +170,7 @@ For the data analysis side of things, I embarked on an extensive exploration thr
 The project begins with sentiment `label transformation` and perceptive `visualization` of `sentiment score` distribution, identifying challenges. The road leads to `feature engineering`, encompassing non-numeric conversion, data partitioning, and `text vectorization`, creating a fusion of insights. Several ML algorithms (`Logistic regression`, `PCA`. `K-Nearest Neighbors` and `Decision Tree`) were used for sentiment prediction. Refinement ensued with cross-validation and a new feature introduction, enhancing accuracy and validation.
 
 
-## 3. Predictive Analysis of West Nile Virus Spread
+## 3. Predictive Analysis of West Nile Virus Spread <a name="virus"></a>
 
 West Nile Virus (WNV) is a potentially serious viral illness transmitted primarily by mosquitoes. In the case of the city of Chicago, Illinois, where mosquito-borne diseases pose a significant public health concern, authorities have implemented a comprehensive strategy to track and understand the prevalence of WNV. By deploying a network of traps throughout the city, they collect mosquitoes and subsequently analyze the captured specimens to gain insights into the spread of the virus.
 
@@ -161,7 +182,7 @@ West Nile Virus (WNV) is a potentially serious viral illness transmitted primari
 This project starts by understanding and exploring the data. I uncovered patterns of mosquito counts over time, studied the prevalence of West Nile Virus (WNV) across mosquito species, and analyzed how mosquito counts varied by trap type. `Visual aids` helped present key takeaways clearly. Digging deeper, I computed average mosquito counts each month, compared WNV occurrence across species and dived into the `correlations` between different variables. I assessed the significance of these connections, grounding my insights in solid `statistics`. Moving forward, I developed models: a `linear regression` for predicting mosquito numbers and a `logistic regression` to understand WNV presence. My documentation wrapped it all up, revealing valuable mosquito behavior insights and shedding light on WNV transmission dynamics. I showcased connections uncovered through `rigorous analysis`, and how these models enriched our comprehension of mosquito counts and the elusive presence of WNV.
 
 
-## 4. Trend Analysis and Visualization of Bixi Bike Usage
+## 4. Trend Analysis and Visualization of Bixi Bike Usage <a name="bixi"></a>
 BIXI Montreal (hereafter: Bixi), established in 2014 by the city of Montreal, is a non-profit organization responsible for overseeing the bike-sharing system. As of 2023, Bixi owns 10,000 bikes that can be accessed through nearly 800 stations. Our goal is to gain a high-level understanding of how people use Bixi bikes, what factors influence the volume of usage, popular stations, and overall business growth. The data used for this project is focused on April-November 2016 and
 2017.
 
@@ -177,18 +198,10 @@ Central to the project was the creation of an impactful visualization dashboard,
 
 The culmination of my work found its expression in `professional documentation`, expertly merging the `analytical rigor` of data exploration with the communicative prowess of visualizations. These findings were translated into `actionable recommendations` through clear explanations complemented by visually engaging charts and graphs. This documentation, bridging the gap between technical insights and pragmatic decision-making, catered comprehensively to `diverse stakeholders`.
 
-<!-- Here are some of the steps taken to carry out this project:
 
-In this project, I seamlessly blended essential skills to conduct in-depth data analysis, harness interactive Tableau visualizations, and demonstrate proficient SQL querying. This dynamic trio formed the backbone of a thorough exploratory analysis of Bixi bike usage data. Through adept SQL utilization, I efficiently extracted, transformed, and prepared raw data for analysis, ensuring its conversion into valuable insights.
+# 📜 Social and Philosophical Aspects of Data  <a name="Social"></a>
 
-Central to the project was the creation of an impactful visualization dashboard, designed meticulously to serve as a visually captivating and interactive platform for data exploration. The dashboard's unique feature of drill-down capabilities empowered users to navigate deeper into nuances of Bixi bike usage, unearthing hidden patterns and trends that evade casual observation.
-
-The culmination of my work found its expression in professional documentation, expertly merging the analytical rigor of data exploration with the communicative prowess of visualizations. These findings were translated into actionable recommendations through clear explanations complemented by visually engaging charts and graphs. This documentation, bridging the gap between technical insights and pragmatic decision-making, catered comprehensively to diverse stakeholders.-->
-
-
-# 📜 Social and Philosophical Aspects of Data 
-
-## 💭 Philosophy and Data
+## 💭 *Phil and Data* Blog <a name="philanddata"></a>
 I occasionally write articles on Medium around data citizenship, data and policy, IT Ethics, and other philosophically important issues related to data. Check out my blog, [philanddata.medium.com](https://philanddata.medium.com). My most recent blogs are as follows:
 
 - [Unleashing the Power of Data in Evidence-Based Policymaking: Navigating Complex Terrain](https://philanddata.medium.com/unleashing-the-power-of-data-in-evidence-based-policymaking-navigating-complex-terrain-5eb3bb8143cc)
@@ -197,7 +210,7 @@ I occasionally write articles on Medium around data citizenship, data and policy
 - [Data Privacy and Ethics
 ](https://philanddata.medium.com/data-privacy-and-ethics-6f4ca517dcae)
 
-## 🌱 Voluntary Blogs
+## 🌱 Voluntary Blogs <a name="voluntary"></a>
 As was mentioned above, I also sometimes write voluntary content on the subject for not-for-profits such as the [Centre for Social Impact Technology](https://centreforsocialimpacttech.ca/). Here's the most recent one:
 - [Data Citizenship at Large and in Alberta](https://www.centreforsocialimpacttech.ca/2023/04/13/data-citizenship-at-large-and-in-alberta)
 </details>
