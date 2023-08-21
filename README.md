@@ -32,7 +32,7 @@ To learn more about these, as well as my academic history, awards, and publicati
 I recently finished a 3-month bootcamp in data science offered by BrainStation <img src="https://coursereport-production.imgix.net/uploads/school/logo/62/original/blacksquare-logo.jpg?w=72&h=72" alt="SciPy Icon" width="20" height="20" />. This was an incredible journey, and certainly a significant transition from academia. I have had the chance to learn various technical and soft skills and leverage the ones that I had acquired in my academic career, in this journey. 
 
 
-## 🛠️ Languages and Tools
+### 🛠️ Languages and Tools
   
 In data science, I have used the following tools, some more than others:
 
@@ -64,9 +64,9 @@ In data science, I have used the following tools, some more than others:
 - **Big Data:** `Hadoop`, `Spark`
 
 
-## 🤖 Projects
+# 🤖 Projects
 
-### 1. 🍔 DeepChef
+## 1. 🍔 DeepChef
 
 I created a recommender system on a dataset of over 520k recipes scraped from [food.com](www.food.com) as my capstone project for the bootcamp -- titled **DeepChef**. DeepChef I harnesses the power of state-of-the-art large langue models and semantic embeddings to create a recommender system that takes in users' favorite recipes -- ingredients or instructions, along with themes or other elements -- and returns the 5-most similar recipes from the dataset. To follow the most recent updates on DeepChef, check out [this repository](https://github.com/amirkiaml/DeepChef-BSTN-Capstone). 
 
@@ -76,7 +76,7 @@ I have also deployed the recommender system from Notebooks 5 and 6 into an onlin
 
 In order to assure the app is up and running on Streamlit's website, I have deployed the recommender system only on 10% of the data that was originally curated for this purpose (see Notebook 6 of the project's repo). I hope to be able to scale the model in the near future.
 
-### 2. <img src="https://1000logos.net/wp-content/uploads/2016/11/New-Google-Logo.jpg" alt="SciPy Icon" width="28" height="29" /> Google|BrainStation Industry Project
+## 2. <img src="https://1000logos.net/wp-content/uploads/2016/11/New-Google-Logo.jpg" alt="SciPy Icon" width="28" height="29" /> Google|BrainStation Industry Project
 
 Recently, I participated in a 24-hour hackathon hosted by **Google** and **BrainStation**, where we were asked to envision new ideas to educate users about AI-powered Google products while ensuring user trust and avoiding misunderstandings. Thanks to our amazing team, we were announced as the winner 🏆 of the contest. Our initial focus was to understand the key reasons behind the general population's mistrust in the use of AI. Through extensive research, we identified three significant factors contributing to this mistrust: the lack of transparency, concerns about privacy invasion, and the difficulty in establishing ground truth for evaluating AI algorithm results in products. Addressing these concerns is pivotal in building trust and confidence in AI technologies.
 
@@ -85,7 +85,7 @@ As a result, we introduced "Insights," a powerful widget integrated into the Goo
 ![image](https://github.com/amirkiaml/Google-Industry-Day/blob/main/Image.png)
 
 
-### 3. 🧠 DeepAnalytic
+## 3. 🧠 DeepAnalytic
 DeepAnalytic is an end-to-end project dedicated to my research project on utilizing LLMs for various use cases in the context of Analytic Philosophy. A large amount of specialized philosophical data has been scraped from leading academic journals. Various cutting-edge NLP tasks will be performed on the collected data, for purposes of research. At the moment, this project is on hold and will be resumed soon after my bootcamps ends, around early August.
 
 The metadata of 28 Springer Nature philosophical journals has been scraped. This records the metadata of around 800k pages of philosophical texts. The text data of other philosophical journals, from other publishers such as Oxford University Press, is also scraped. In particular, over 10k pages of papers from the leading journal *Analysis*, alongside their metadata, are scraped.
@@ -97,7 +97,7 @@ Aside from the basic EDA and NLP analyses, various cutting-edge NLP tasks are sc
 
 You can learn more about DeepAnalytic by checking out its dedicated repository, found [here](https://github.com/amirkiaml/DeepAnalytic).
 
-### 4. 📚 Book 
+## 4. 📚 Book 
 
 I recently published a book on the mathematics of data science -- *No Bullshit Math for Data Science*. 
 
@@ -107,7 +107,7 @@ I recently published a book on the mathematics of data science -- *No Bullshit M
 The book is available on Amazon for purchase. Check out https://mathanddata.com/bookstore/ for more info and a sample chapter. I'm currently looking into writing the second volume of this book.
 
 
-### 5. ∑ ➗ Blog
+## 5. ∑ ➗ Blog
 
 I run a blog on the mathematics of data science: [mathanddata.com](https://mathanddata.com/). Here I used leverage my mathematics and data science background and do further research on producing content on various topics in the crossovers of mathematics and data science. Some of the recent blog posts are as follows:
 
@@ -117,12 +117,49 @@ I run a blog on the mathematics of data science: [mathanddata.com](https://matha
 </details>
 
 # 📈 Data Analysis Portfolio
-  
-## 🔍 SQL End-to-End Projects
-Before and during my Data Science bootcamp at BrainStation, I carried out several end-to-end data analysis projects using SQL. Currently, I'm preparing the projects before making them available to the public. Please stay tuned and follow [this](https://github.com/amirkiaml/SQL-projects) repository for updates in the near future.
 
-## 📉 Data Visualization and Dashboarding
-Before and during my Data Science bootcamp at BrainStation, I carried out a few end-to-end data visualization projects and created dashboards using Tableau. Currently, I'm preparing the projects before making them available to the public. Please stay tuned and follow [this](https://github.com/amirkiaml/Data-Visualization) repository for updates in the near future
+  
+## 1. Sentiment Analysis on Hotel Reviews
+ This project involves analyzing hotel review data using Natural Language Processing (NLP) techniques. The project is divided into several steps, starting with Exploratory Data Analysis (EDA) and progressing to data augmentation, modeling, and iterative improvements.
+
+ ![Reviews](https://drive.google.com/uc?export=view&id=15IkxgtUEjdgmKcciJCGlYYlPPQYgAbUJ)
+
+ Here is a summary of some of the steps taken:
+
+- **Implemented Topic Modeling and Sentiment Analysis for User Reviews:** Leveraged advanced techniques in natural language processing to uncover underlying topics in user reviews, allowing for automatic categorization of feedback into meaningful themes. Additionally, sentiment analysis was applied to discern emotional tones, offering a nuanced understanding of customer sentiments towards products and services.
+- **Focused on Feature Engineering and Natural Language Processing Techniques:** Emphasized the creation of sophisticated features from raw text data, utilizing methods such as TF-IDF, word embeddings, and semantic analysis. These engineered features captured contextual meaning and sentiment nuances, translating unstructured text into quantifiable inputs for machine learning models.
+- **Employed Classification Models to Gain Insights into User Behavior:** Employed cutting-edge classification models to transform insights from reviews beyond mere descriptions. These models not only categorized sentiments but predicted potential customer behavior patterns. This strategic foresight enabled the identification of churn risks, engagement levels, and other actionable trends, driving informed decision-making.
+- **Improved Conversion Rate by Understanding Customer Sentiments:** Through the comprehensive integration of topic modeling, sentiment analysis, feature engineering, and classification models, gained a deep understanding of customer sentiments and preferences. This holistic approach enabled the tailoring of marketing strategies, service enhancements, and engagement initiatives. Leveraging this insight resulted in boosted conversion rates and cultivated brand loyalty.
+
+## 2. Predictive Analysis of West Nile Virus Spread
+
+West Nile Virus (WNV) is a potentially serious viral illness transmitted primarily by mosquitoes. In the case of the city of Chicago, Illinois, where mosquito-borne diseases pose a significant public health concern, authorities have implemented a comprehensive strategy to track and understand the prevalence of WNV. By deploying a network of traps throughout the city, they collect mosquitoes and subsequently analyze the captured specimens to gain insights into the spread of the virus.
+
+![Nile Virus](https://drive.google.com/uc?export=view&id=1MSVXY90AIOwdmoLrofhIa42n4HpkW_ug)
+
+Here are some steps taken to carry out the project:
+
+- **ETL Processes for Data Preparation:** Raw data collected from mosquito traps undergoes a critical transformation process known as Extract, Transform, Load (ETL). In the extraction phase, data is retrieved from various sources and prepared for analysis. During transformation, data is cleaned, structured, and standardized. This involves handling missing values, dealing with inconsistencies, and ensuring uniform formats. For instance, duplicate entries and outliers might be removed to prevent skewing analysis. Finally, in the load phase, the organized data is loaded into a suitable storage system. ETL processes ensure that the data is accurate, complete, and in a format that can be easily utilized for further analysis, forming a solid foundation for making informed decisions regarding mosquito populations and West Nile Virus (WNV) prevalence.
+- **Statistical Exploration:** This stage involves delving deep into the dataset using statistical tools and methods. Experts apply a range of descriptive statistics to summarize the data's main characteristics, such as mean, median, and standard deviation. More advanced techniques, like correlation analysis, highlight relationships between variables. Visualizations, such as scatter plots and heatmaps, bring these insights to life, revealing trends and patterns in mosquito populations and WNV prevalence. Exploring how factors like time of year, weather conditions, and geographic location impact mosquito activity helps formulate hypotheses about the drivers of WNV spread. Visualizations also play a crucial role in communicating findings to stakeholders and decision-makers.
+- **Hypothesis Testing:** Hypothesis testing is a systematic way to validate assumptions and draw meaningful conclusions from data. Techniques like t-tests and Chi-square tests assess whether observed differences or relationships between variables are statistically significant or merely due to chance. For example, a t-test might be employed to determine if there's a significant difference in mosquito counts during rainy and dry seasons. Chi-square tests could help reveal whether certain weather conditions significantly affect mosquito activity levels. By applying these tests, the project validates the significance of factors affecting WNV spread, guiding informed decision-making.
+- **Regression Predictive Modeling:** Regression predictive modeling involves creating models that predict outcomes based on input variables. In this context, models are developed to forecast mosquito counts and WNV prevalence. Variables like temperature and location act as predictors, offering insights into mosquito behavior and the dynamics of virus spread. These models not only provide insights into how these variables interact but also allow for scenario testing. For instance, by manipulating temperature inputs, one can predict the potential impact on mosquito populations. This predictive capacity equips stakeholders with tools to plan mosquito control strategies, optimize resource allocation, and respond proactively to potential outbreaks.
+
+## 3. Trend Analysis and Visualization of Bixi Bike Usage
+BIXI Montreal (hereafter: Bixi), established in 2014 by the city of Montreal, is a non-profit organization responsible for overseeing the bike-sharing system. As of 2023, Bixi owns 10,000 bikes that can be accessed through nearly 800 stations. Our goal is to gain a high-level understanding of how people use Bixi bikes, what factors influence the volume of usage, popular stations, and overall business growth. The data used for this project is focused on April-November 2016 and
+2017.
+
+![Bixi](https://drive.google.com/uc?export=view&id=1lm4KhU2w6NXj9QXEaI-enqMlo8tr8TSZ)
+
+Here are some of the steps taken to carry out this project:
+
+- **Integrated In-Depth Data Analysis, Interactive Tableau Visualizations, and Proficient SQL Querying for Exploratory Analysis:**
+The project involved a synergistic blend of advanced skills, combining in-depth data analysis, interactive visualizations created using Tableau, and proficient SQL querying. This triad of techniques allowed for a comprehensive exploratory analysis of Bixi bike usage data. By harnessing SQL, data were efficiently extracted, transformed, and prepared for analysis. The expertise in SQL enabled seamless manipulation and transformation of raw data into meaningful insights.
+
+- **Crafted an Insightful Visualization Dashboard with Drill-Down Capabilities:**
+At the heart of the project was the creation of a powerful visualization dashboard, meticulously crafted to provide a visually engaging and interactive interface for exploring the data. The dashboard design featured drill-down capabilities, enabling users to delve deeper into specific aspects of Bixi bike usage. This level of interactivity facilitated the extraction of granular insights from the data, allowing users to uncover patterns, trends, and behaviors that might not be apparent at a cursory glance.
+
+- **Reported Findings and Insights Effectively Through Professional Documentation:**
+The culmination of data-driven insights and visualization techniques was presented through professional documentation. This documentation seamlessly merged the rigor of data analysis with the communicative power of visualizations. The insights gained from the analysis were effectively translated into actionable recommendations. Clear explanations accompanied by visually appealing charts and graphs allowed stakeholders to easily grasp the significance of the findings. This documentation bridged the gap between technical insights and practical decision-making, catering to a diverse audience.
 
 
 # 📜 Social and Philosophical Aspects of Data 
