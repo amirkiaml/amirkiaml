@@ -128,6 +128,7 @@ I run a blog on the mathematics of data science: [mathanddata.com](https://matha
 # 📈 Data Analysis Portfolio
 
 ## 1. Analysis of Culinary Habits and Patterns
+For my project DeepChef I performed many data analysis operations and techniques. 
 
 ![Topic](https://drive.google.com/uc?export=view&id=1sDjdtFmhlXXsB2R3zzDz1nuZz119B0TF)
 
