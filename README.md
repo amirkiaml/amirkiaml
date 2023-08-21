@@ -148,9 +148,9 @@ For my capstone project, DeepChef, I performed many data analysis tasks.
 
 For the data analysis side of things, I embarked on an extensive exploration through `data wrangling`, `exploratory analysis`, `topic modeling`, `reporting`, and `presenting` the results. `Scraping` missing data from over 520,000 recipes rectified inaccuracies, while subsequent analysis unearthed ingredient trends, recipe categories, and factors driving ratings. Employing `Bertopic`, I `clustered` recipes to reveal underlying themes and presented visually striking topic distributions. Culminating in a comprehensive conclusion, I compiled an annotated `Jupyter notebook` detailing the methodology, insights, and journey from data exploration to `refined models`, showcasing a holistic and insightful narrative within the culinary data realm. 
 
-- Notebooks ("Part 1" to "Part 4") can be found [here](https://github.com/amirkiaml/DeepChef-BSTN-Capstone).
+- `Notebooks` ("Part 1" to "Part 4") can be found [here](https://github.com/amirkiaml/DeepChef-BSTN-Capstone).
 - The final `written report` can be found [here](https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Final_Report.pdf).
-- The final presentation can be found [here](https://www.loom.com/share/350eed0ce28c43e297ea78e6ede7d694).
+- The final `oral presentation` can be found [here](https://www.loom.com/share/350eed0ce28c43e297ea78e6ede7d694).
 
   
 ## 2. Sentiment Analysis on Hotel Reviews <a name="sentiment"></a>
