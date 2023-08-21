@@ -157,7 +157,7 @@ For my data analysis projects, I have used most of the same tools listed for Dat
 For my capstone project, DeepChef, I performed many data analysis tasks. 
 <div align="center">
 
-<img src="https://drive.google.com/uc?export=view&id=1sDjdtFmhlXXsB2R3zzDz1nuZz119B0TF" alt="Topic" width="900">
+<img src="https://github.com/amirkiaml/media/blob/main/topics.png" alt="Topic" width="900">
 </div>
 
 For the data analysis side of things, I embarked on an extensive exploration through `data wrangling`, `exploratory analysis`, `topic modeling`, `reporting`, and `presenting` the results. `Scraping` missing data from over 520,000 recipes rectified inaccuracies, while subsequent analysis unearthed ingredient trends, recipe categories, and factors driving ratings. Employing `Bertopic`, I `clustered` recipes to reveal underlying themes and presented visually striking topic distributions. Culminating in a comprehensive conclusion, I compiled an annotated `Jupyter notebook` detailing the methodology, insights, and journey from data exploration to `refined models`, showcasing a holistic and insightful narrative within the culinary data realm. 
@@ -172,7 +172,7 @@ For the data analysis side of things, I embarked on an extensive exploration thr
 
 <div align="center">
 
- ![Reviews](https://drive.google.com/uc?export=view&id=15IkxgtUEjdgmKcciJCGlYYlPPQYgAbUJ)
+ ![Reviews](https://github.com/amirkiaml/media/blob/main/words.png)
 </div>
  
 The project begins with sentiment `label transformation` and perceptive `visualization` of `sentiment score` distribution, identifying challenges. The road leads to `feature engineering`, encompassing non-numeric conversion, data partitioning, and `text vectorization`, creating a fusion of insights. Several ML algorithms (`Logistic regression`, `PCA`. `K-Nearest Neighbors` and `Decision Tree`) were used for sentiment prediction. Refinement ensued with cross-validation and a new feature introduction, enhancing accuracy and validation.
@@ -184,7 +184,7 @@ West Nile Virus (WNV) is a potentially serious viral illness transmitted primari
 
 <div align="center">
   
-  ![Nile Virus](https://drive.google.com/uc?export=download&id=1TW91-lvJz4Typx4UmoR8IYOxF1MrIBvk)
+  ![Nile Virus](https://github.com/amirkiaml/media/blob/main/virus.png)
 </div>
 
 This project starts by understanding and exploring the data. I uncovered patterns of mosquito counts over time, studied the prevalence of West Nile Virus (WNV) across mosquito species, and analyzed how mosquito counts varied by trap type. `Visual aids` helped present key takeaways clearly. Digging deeper, I computed average mosquito counts each month, compared WNV occurrence across species and dived into the `correlations` between different variables. I assessed the significance of these connections, grounding my insights in solid `statistics`. Moving forward, I developed models: a `linear regression` for predicting mosquito numbers and a `logistic regression` to understand WNV presence. My documentation wrapped it all up, revealing valuable mosquito behavior insights and shedding light on WNV transmission dynamics. I showcased connections uncovered through `rigorous analysis`, and how these models enriched our comprehension of mosquito counts and the elusive presence of WNV.
@@ -196,7 +196,7 @@ BIXI Montreal (hereafter: Bixi), established in 2014 by the city of Montreal, is
 
 <div align="center">
 
-<img src="https://drive.google.com/uc?export=view&id=1lm4KhU2w6NXj9QXEaI-enqMlo8tr8TSZ" alt="Bixi" width="900">
+<img src="https://github.com/amirkiaml/media/blob/main/Bixi.png" alt="Bixi" width="900">
 
 </div>
 
