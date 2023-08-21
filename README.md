@@ -132,6 +132,8 @@ For my project DeepChef I performed many data analysis operations and techniques
 
 ![Topic](https://drive.google.com/uc?export=view&id=1sDjdtFmhlXXsB2R3zzDz1nuZz119B0TF)
 
+ Here is a summary of some of the steps taken:
+
 
 ### [Data Wrangling and Imputation](https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Part%201%20-%20Scraping%20www.food.com.ipynb)
 - Scraped missing information o over 520,000 recipes from food.com for ingredient quantities and items.
@@ -196,10 +198,10 @@ For my project DeepChef I performed many data analysis operations and techniques
 #### Model Refinement and Optimization:
 
 - Utilized cross-validation to fine-tune hyperparameters.
-- Assessed model performance with confusion matrix.
+- Assessed model performance with a confusion matrix.
 - Introduced a new feature for enhanced accuracy.
 - Justified new feature's significance.
-- Reran models with augmented dataset.
+- Reran models with the augmented dataset.
 - Re-optimized hyperparameters for superior outcomes.
 
 #### Documentation and Conclusion:
