@@ -41,8 +41,8 @@ Before transitioning into Data Science, I spent over 12 years in academia. I did
 -  `project management`
 -  `quantitative reasoning`
 -  `qualitative reasoning`
--  `research`
 -  `literature review`
+-  `research`
 
 To learn more about these, as well as my academic history, awards, and publications, check out [this repository](https://github.com/amirkiaml/Educational-Background/tree/main).
 
