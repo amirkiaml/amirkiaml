@@ -129,8 +129,10 @@ I run a blog on the mathematics of data science: [mathanddata.com](https://matha
 
 ## 1. Analysis of Culinary Habits and Patterns
 For my capstone project, DeepChef, I performed many data analysis tasks. 
+<div align="center">
 
-![Topic](https://drive.google.com/uc?export=view&id=1sDjdtFmhlXXsB2R3zzDz1nuZz119B0TF)
+<img src="https://drive.google.com/uc?export=view&id=1sDjdtFmhlXXsB2R3zzDz1nuZz119B0TF" alt="Topic" width="900">
+</div>
 
 For the data analysis side of things, I embarked on an extensive exploration through `data wrangling`, `exploratory analysis`, `topic modeling`, `reporting`, and `presenting` the results. `Scraping` missing data from over 520,000 recipes rectified inaccuracies, while subsequent analysis unearthed ingredient trends, recipe categories, and factors driving ratings. Employing `Bertopic`, I `clustered` recipes to reveal underlying themes and presented visually striking topic distributions. Culminating in a comprehensive conclusion, I compiled an annotated `Jupyter notebook` detailing the methodology, insights, and journey from data exploration to `refined models`, showcasing a holistic and insightful narrative within the culinary data realm. The final `written report` can be found [here](https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Final_Report.pdf); the final presentation can be found [here](https://www.loom.com/share/350eed0ce28c43e297ea78e6ede7d694).
 
@@ -156,7 +158,7 @@ West Nile Virus (WNV) is a potentially serious viral illness transmitted primari
   ![Nile Virus](https://drive.google.com/uc?export=download&id=1TW91-lvJz4Typx4UmoR8IYOxF1MrIBvk)
 </div>
 
-This project starts by understanding and exploring the data. I uncovered patterns of mosquito counts over time, studied the prevalence of West Nile Virus (WNV) across mosquito species, and analyzed how mosquito counts varied by trap types. `Visual aids` helped present key takeaways clearly. Digging deeper, I computed average mosquito counts each month, compared WNV occurrence across species, and dived into the `corelations` between different variables. I assessed the significance of these connections, grounding my insights in solid `statistics`. Moving forward, I developed models: a `linear regression` for predicting mosquito numbers and a `logistic regression` to understand WNV presence. My documentation wrapped it all up, revealing valuable mosquito behavior insights and shedding light on WNV transmission dynamics. I showcased connections uncovered through `rigorous analysis`, and how these models enriched our comprehension of mosquito counts and the elusive presence of WNV.
+This project starts by understanding and exploring the data. I uncovered patterns of mosquito counts over time, studied the prevalence of West Nile Virus (WNV) across mosquito species, and analyzed how mosquito counts varied by trap type. `Visual aids` helped present key takeaways clearly. Digging deeper, I computed average mosquito counts each month, compared WNV occurrence across species and dived into the `correlations` between different variables. I assessed the significance of these connections, grounding my insights in solid `statistics`. Moving forward, I developed models: a `linear regression` for predicting mosquito numbers and a `logistic regression` to understand WNV presence. My documentation wrapped it all up, revealing valuable mosquito behavior insights and shedding light on WNV transmission dynamics. I showcased connections uncovered through `rigorous analysis`, and how these models enriched our comprehension of mosquito counts and the elusive presence of WNV.
 
 
 ## 4. Trend Analysis and Visualization of Bixi Bike Usage
@@ -165,7 +167,7 @@ BIXI Montreal (hereafter: Bixi), established in 2014 by the city of Montreal, is
 
 <div align="center">
 
-  ![Bixi](https://drive.google.com/uc?export=view&id=1lm4KhU2w6NXj9QXEaI-enqMlo8tr8TSZ)
+<img src="https://drive.google.com/uc?export=view&id=1lm4KhU2w6NXj9QXEaI-enqMlo8tr8TSZ" alt="Bixi" width="900">
 
 </div>
 
