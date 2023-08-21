@@ -21,6 +21,7 @@
 - [Social and Philosophical Aspects of Data](#Social)
     - [Blog: Phil and Data](#philanddata)
     - [Voluntary Blogs](#voluntary)
+- [Contact](#contact)
 
 
 # 🌟 Introduction <a name="introduction"></a>
@@ -32,7 +33,7 @@ Hi there! Amir here, a data scientist with an academic background in math and ph
 
 # 🎓 Academic Background and Transferrable Skills <a name="academic"></a>
 
-Before transitioning into Data Science, I spent over 12 years of my life in academia. I did a BSc in Mathematics, an MA and a PhD in Philosophy. Throughout these years I acquired a wide range of hard and soft skills that are transferrable in industry. In short, some of these skills are as follows:
+Before transitioning into Data Science, I spent over 12 years in academia. I did a BSc in Mathematics, an MA and a PhD in Philosophy. Throughout these years I acquired a wide range of hard and soft skills that are transferrable in industry. In short, some of these skills are as follows:
     
 - `analytical thinking`
 -  `time management`
@@ -220,7 +221,7 @@ As was mentioned above, I also sometimes write voluntary content on the subject 
 - [Data Citizenship at Large and in Alberta](https://www.centreforsocialimpacttech.ca/post/data-citizenship-at-large-and-in-alberta)
 </details>
 
-# 📧 Contact
+# 📧 Contact <a name="contact"></a>
 
 You can reach me via [ahosseinkiani@gmail.com](ahosseinkiani@gmail.com) or on [LinkedIn](https://linkedin.com/in/amirhossein-kiani).
 <!--
