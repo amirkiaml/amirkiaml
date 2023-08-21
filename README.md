@@ -170,45 +170,7 @@ For my project DeepChef I performed many data analysis operations and techniques
  ![Reviews](https://drive.google.com/uc?export=view&id=15IkxgtUEjdgmKcciJCGlYYlPPQYgAbUJ)
 </div>
  
- Here is a summary of some of the steps taken:
-
-#### Data Exploration and Preparation:
-- Examined dataset attributes, structure, and size.
-- Transformed review scores into binary sentiment labels.
-- Visualized sentiment score distribution and identified potential challenges.
-
-#### Feature Engineering and Transformation:
-
-- Converted non-numeric features for analysis.
-- Partitioned data into training and testing sets.
-- Utilized text vectorization to convert reviews into numeric format.
-- Merged numeric features with vectorized data.
-
-#### Model Selection and Training:
-
-- Implemented logistic regression to predict sentiment.
-- Evaluated model accuracy on the test set.
-- Extracted significant words using regression coefficients.
-- Explored dimensionality reduction via PCA.
-- Analyzed dimensions' impact on runtime.
-- Employed K-Nearest Neighbors for accuracy assessment.
-- Investigated data point variations' effect on runtime.
-- Utilized Decision Tree classifier and assessed accuracy.
-
-#### Model Refinement and Optimization:
-
-- Utilized cross-validation to fine-tune hyperparameters.
-- Assessed model performance with a confusion matrix.
-- Introduced a new feature for enhanced accuracy.
-- Justified new feature's significance.
-- Reran models with the augmented dataset.
-- Re-optimized hyperparameters for superior outcomes.
-
-#### Documentation and Conclusion:
-- Compiled annotated Jupyter notebook with code.
-- Detailed step-by-step methodology explanation.
-- Presented insights from model evaluations.
-- Summarized progression from data exploration to refined models.
+The project begins with sentiment `label transformation` and perceptive `visualization` of `sentiment score` distribution, identifying challenges. The road leads to `feature engineering`, encompassing non-numeric conversion, data partitioning, and `text vectorization`, creating a fusion of insights. Several ML algorithms (`Logistic regression`, `PCA`. `K-Nearest Neighbors` and `Decision Tree`) were used for sentiment prediction. Refinement ensued with cross-validation and a new feature introduction, enhancing accuracy and validation.
 
 
 
@@ -218,34 +180,10 @@ West Nile Virus (WNV) is a potentially serious viral illness transmitted primari
 
 <div align="center">
   
-  ![Nile Virus](https://drive.google.com/uc?export=view&id=1MSVXY90AIOwdmoLrofhIa42n4HpkW_ug)
+  ![Nile Virus](https://drive.google.com/uc?export=download&id=1TW91-lvJz4Typx4UmoR8IYOxF1MrIBvk)
 </div>
 
-**Note:** This comprehensive project involves data wrangling, exploratory and statistical analysis, and model building, aiming to unveil insights into mosquito populations and West Nile Virus presence. The emphasis is on methodical data handling, insightful visualization, and rigorous statistical interpretation.
-
-Here are some steps taken to carry out the project:
-
-#### Data Understanding and Initial Exploration
-- Discovered temporal fluctuations in mosquito counts.
-- Explored WNV prevalence across mosquito species.
-- Analyzed mosquito counts by trap types.
-- Presented key insights using visualizations.
-
-#### Core Analysis and Insights
-- Computed monthly average mosquito counts for trends.
-- Evaluated WNV occurrence variations among mosquito species.
-- Investigated correlations between different variables.
-- Assessed statistical significance of relationships.
-
-#### Linear and Logistic Models:
-- Developed linear regression for 'Mosquito number' prediction.
-- Interpreted model outcomes and limitations.
-- Formulated logistic regression for WNV presence.
-  
-#### Documentation and Conclusion:
-- Revealed insights into mosquito patterns and WNV transmission.
-- Discovered connections through rigorous statistical analysis.
-- Delivered models enhancing understanding of mosquito counts and WNV presence.
+This project starts by understanding and exploring the data. I uncovered patterns of mosquito counts over time, studied the prevalence of West Nile Virus (WNV) across mosquito species, and analyzed how mosquito counts varied by trap types. `Visual aids` helped present key takeaways clearly. Digging deeper, I computed average mosquito counts each month, compared WNV occurrence across species, and dived into the `corelations` between different variables. I assessed the significance of these connections, grounding my insights in solid `statistics`. Moving forward, I developed models: a `linear regression` for predicting mosquito numbers and a `logistic regression` to understand WNV presence. My documentation wrapped it all up, revealing valuable mosquito behavior insights and shedding light on WNV transmission dynamics. I showcased connections uncovered through `rigorous analysis`, and how these models enriched our comprehension of mosquito counts and the elusive presence of WNV.
 
 
 ## 4. Trend Analysis and Visualization of Bixi Bike Usage
@@ -258,17 +196,19 @@ BIXI Montreal (hereafter: Bixi), established in 2014 by the city of Montreal, is
 
 </div>
 
+In this project, I seamlessly blended essential skills to conduct in-depth data analysis, harness interactive `Tableau visualizations`, and demonstrate proficient `SQL querying`. This dynamic trio formed the backbone of a thorough `exploratory analysis` of Bixi bike usage data. Through adept SQL utilization, I efficiently extracted, transformed, and prepared raw data for analysis, ensuring its conversion into valuable insights.
 
-Here are some of the steps taken to carry out this project:
+Central to the project was the creation of an impactful visualization dashboard, designed meticulously to serve as a visually captivating and interactive platform for data exploration. The dashboard's unique feature of drill-down capabilities empowered users to navigate deeper into nuances of Bixi bike usage, unearthing hidden patterns and `trends` that evade casual observation.
 
-- **Integrated In-Depth Data Analysis, Interactive Tableau Visualizations, and Proficient SQL Querying for Exploratory Analysis:**
-The project involved a synergistic blend of advanced skills, combining in-depth data analysis, interactive visualizations created using Tableau, and proficient SQL querying. This triad of techniques allowed for a comprehensive exploratory analysis of Bixi bike usage data. By harnessing SQL, data were efficiently extracted, transformed, and prepared for analysis. The expertise in SQL enabled seamless manipulation and transformation of raw data into meaningful insights.
+The culmination of my work found its expression in `professional documentation`, expertly merging the `analytical rigor` of data exploration with the communicative prowess of visualizations. These findings were translated into `actionable recommendations` through clear explanations complemented by visually engaging charts and graphs. This documentation, bridging the gap between technical insights and pragmatic decision-making, catered comprehensively to `diverse stakeholders`.
 
-- **Crafted an Insightful Visualization Dashboard with Drill-Down Capabilities:**
-At the heart of the project was the creation of a powerful visualization dashboard, meticulously crafted to provide a visually engaging and interactive interface for exploring the data. The dashboard design featured drill-down capabilities, enabling users to delve deeper into specific aspects of Bixi bike usage. This level of interactivity facilitated the extraction of granular insights from the data, allowing users to uncover patterns, trends, and behaviors that might not be apparent at a cursory glance.
+<!-- Here are some of the steps taken to carry out this project:
 
-- **Reported Findings and Insights Effectively Through Professional Documentation:**
-The culmination of data-driven insights and visualization techniques was presented through professional documentation. This documentation seamlessly merged the rigor of data analysis with the communicative power of visualizations. The insights gained from the analysis were effectively translated into actionable recommendations. Clear explanations accompanied by visually appealing charts and graphs allowed stakeholders to easily grasp the significance of the findings. This documentation bridged the gap between technical insights and practical decision-making, catering to a diverse audience.
+In this project, I seamlessly blended essential skills to conduct in-depth data analysis, harness interactive Tableau visualizations, and demonstrate proficient SQL querying. This dynamic trio formed the backbone of a thorough exploratory analysis of Bixi bike usage data. Through adept SQL utilization, I efficiently extracted, transformed, and prepared raw data for analysis, ensuring its conversion into valuable insights.
+
+Central to the project was the creation of an impactful visualization dashboard, designed meticulously to serve as a visually captivating and interactive platform for data exploration. The dashboard's unique feature of drill-down capabilities empowered users to navigate deeper into nuances of Bixi bike usage, unearthing hidden patterns and trends that evade casual observation.
+
+The culmination of my work found its expression in professional documentation, expertly merging the analytical rigor of data exploration with the communicative prowess of visualizations. These findings were translated into actionable recommendations through clear explanations complemented by visually engaging charts and graphs. This documentation, bridging the gap between technical insights and pragmatic decision-making, catered comprehensively to diverse stakeholders.-->
 
 
 # 📜 Social and Philosophical Aspects of Data 
