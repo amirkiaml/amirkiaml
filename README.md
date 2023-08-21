@@ -135,7 +135,7 @@ I run a blog on the mathematics of data science: [mathanddata.com](https://matha
 
 For my data analysis projects, I have used most of the same tools listed for Data Science. Here are some of the projects that I have worked on. 
 
-**NOTE:** Several of the following projects were carried out as part of BrainStation bootcamp, and I cannot share the source codes, visualizations or reports with the public, as they can be reused by the next cohorts' students. If you're recruiter or anyoneone else other than a current Data Science students at BrainStation, feel free to request a copy of the relevant files.
+**NOTE:** Several of the following projects were carried out as part of BrainStation bootcamp, and I cannot share the source codes, visualizations, or reports with the public, as they can be reused by the next cohorts' students. If you're a recruiter or anyone else other than a current Data Science student at BrainStation, feel free to request a copy of the relevant files.
 
 # Projects <a name="daprojects"></a>
 
