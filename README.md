@@ -1,6 +1,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=amirkiaml&style=flat-square&color=blue)
 
-# Table of Contents
+<details>
+<summary><h1>Table of Contents</h1></summary>
+
 - [Introduction](#introduction)
 - [Academic Background and Transferrable Skills](#academic)
 - [Data Science](#DS)
@@ -20,6 +22,8 @@
 - [Social and Philosophical Aspects of Data](#Social)
     - [*Phil and Data* Blog](#philanddata)
     - [Voluntary Blogs](#voluntary)
+
+</details>
 
 # 🌟 Introduction <a name="introduction"></a>
 Hi there! Amir here, a data scientist with an academic background in math and philosophy. I love all things data but particularly find Natural language Processing (NLP) very fascinating. On the philosophical side of things, I like diving deep into questions of machine consciousness, social impact tech, AI safety, and IT ethics.
@@ -212,7 +216,7 @@ I occasionally write articles on Medium around data citizenship, data and policy
 
 ## 🌱 Voluntary Blogs <a name="voluntary"></a>
 As was mentioned above, I also sometimes write voluntary content on the subject for not-for-profits such as the [Centre for Social Impact Technology](https://centreforsocialimpacttech.ca/). Here's the most recent one:
-- [Data Citizenship at Large and in Alberta](https://www.centreforsocialimpacttech.ca/2023/04/13/data-citizenship-at-large-and-in-alberta)
+- [Data Citizenship at Large and in Alberta](https://www.centreforsocialimpacttech.ca/post/data-citizenship-at-large-and-in-alberta)
 </details>
 
 # 📧 Contact
