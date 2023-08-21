@@ -35,6 +35,7 @@ I recently finished a 3-month bootcamp in data science offered by BrainStation <
 ### 🛠️ Languages and Tools
   
 In data science, I have used the following tools, some more than others:
+<div align="center">
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R Icon" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash Icon" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python Icon" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas Icon" width="40" height="40" />
@@ -52,6 +53,8 @@ In data science, I have used the following tools, some more than others:
 <img src="https://camo.githubusercontent.com/d3ab2afbb65552030516445a1a8aaf634eeb47416b1a2711daf0e33857e0293e/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6170616368655f686976652f6170616368655f686976652d69636f6e2e737667" alt="NumPy Icon" width="40" height="40" />
 <img src="https://camo.githubusercontent.com/55336973a5c752995e40ccec95502a4aa6b3d091ff52741bc59456d61c67b7e5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6170616368655f6861646f6f702f6170616368655f6861646f6f702d69636f6e2e737667" alt="SciPy Icon" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="NumPy Icon (Raw SVG)" width="40" height="40" />
+
+</div>
 
 - **Database:** `MySQL`, `PostgreSQL`
 - **Programming:** `Python`, `R`, `Bash`,
@@ -72,7 +75,10 @@ I created a recommender system on a dataset of over 520k recipes scraped from [f
 
 I have also deployed the recommender system from Notebooks 5 and 6 into an online interactive app that can be accessed through this address: https://deepchef.streamlit.app.
 
-<img src="https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Deepchef.png?raw=true" alt="SciPy Icon" width="350" height="400" />
+<div align="center">
+  <img src="https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Deepchef.png?raw=true" alt="SciPy Icon" width="350" height="400" />
+</div>
+
 
 In order to assure the app is up and running on Streamlit's website, I have deployed the recommender system only on 10% of the data that was originally curated for this purpose (see Notebook 6 of the project's repo). I hope to be able to scale the model in the near future.
 
@@ -82,11 +88,13 @@ Recently, I participated in a 24-hour hackathon hosted by **Google** and **Brain
 
 As a result, we introduced "Insights," a powerful widget integrated into the Google platform. "Insights" leverages the recent breakthrough in large language models to provide users with a unique glimpse behind the curtain, offering clear explanations of how AI enhances their experience, utilizes their data, and delivers the results they receive. With "Insights," we aim to foster transparency and empower users to confidently embrace AI-related features. To learn more about "Insights," check out the project's [dedicated GitHub repository](https://github.com/amirkiaml/Google-Industry-Day).
 
+<div align="center">
+  
 ![image](https://github.com/amirkiaml/Google-Industry-Day/blob/main/Image.png)
-
+</div>
 
 ## 3. 🧠 DeepAnalytic
-DeepAnalytic is an end-to-end project dedicated to my research project on utilizing LLMs for various use cases in the context of Analytic Philosophy. A large amount of specialized philosophical data has been scraped from leading academic journals. Various cutting-edge NLP tasks will be performed on the collected data, for purposes of research. At the moment, this project is on hold and will be resumed soon after my bootcamps ends, around early August.
+DeepAnalytic is an end-to-end project dedicated to my research project on utilizing LLMs for various use cases in the context of Analytic Philosophy. A large amount of specialized philosophical data has been scraped from leading academic journals. Various cutting-edge NLP tasks will be performed on the collected data, for purposes of research.
 
 The metadata of 28 Springer Nature philosophical journals has been scraped. This records the metadata of around 800k pages of philosophical texts. The text data of other philosophical journals, from other publishers such as Oxford University Press, is also scraped. In particular, over 10k pages of papers from the leading journal *Analysis*, alongside their metadata, are scraped.
 
@@ -101,15 +109,16 @@ You can learn more about DeepAnalytic by checking out its dedicated repository, 
 
 I recently published a book on the mathematics of data science -- *No Bullshit Math for Data Science*. 
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <img src="https://mathanddata.com/wp-content/uploads/2023/05/book-cover-1-233x300-2.png" alt="Book Cover" style="max-width: 100%; height: auto;">
 </div>
+  
 The book is available on Amazon for purchase. Check out https://mathanddata.com/bookstore/ for more info and a sample chapter. I'm currently looking into writing the second volume of this book.
 
 
-## 5. ∑ ➗ Blog
+## 5. ∑ ➗ Blog 
 
-I run a blog on the mathematics of data science: [mathanddata.com](https://mathanddata.com/). Here I used leverage my mathematics and data science background and do further research on producing content on various topics in the crossovers of mathematics and data science. Some of the recent blog posts are as follows:
+I run a blog on the mathematics of data science: [mathanddata.com](https://mathanddata.com/). Here I leverage my mathematics and data science background and do further research on producing content on various topics in the crossovers of mathematics and data science. Some of the recent blog posts are as follows:
 
 - [Descriptive and Inferential Statistic](https://mathanddata.com/2023/07/descriptive-and-inferential-statistics-2/)
 - [On the Cross-Section of the Most Relevant Literature on Large Language Models](https://mathanddata.com/2023/04/on-the-cross-section-of-the-most-relevant-literature-on-large-language-models/)
@@ -122,33 +131,101 @@ I run a blog on the mathematics of data science: [mathanddata.com](https://matha
 ## 1. Sentiment Analysis on Hotel Reviews
  This project involves analyzing hotel review data using Natural Language Processing (NLP) techniques. The project is divided into several steps, starting with Exploratory Data Analysis (EDA) and progressing to data augmentation, modeling, and iterative improvements.
 
- ![Reviews](https://drive.google.com/uc?export=view&id=15IkxgtUEjdgmKcciJCGlYYlPPQYgAbUJ)
+<div align="center">
 
+ ![Reviews](https://drive.google.com/uc?export=view&id=15IkxgtUEjdgmKcciJCGlYYlPPQYgAbUJ)
+</div>
+ 
  Here is a summary of some of the steps taken:
 
-- **Implemented Topic Modeling and Sentiment Analysis for User Reviews:** Leveraged advanced techniques in natural language processing to uncover underlying topics in user reviews, allowing for automatic categorization of feedback into meaningful themes. Additionally, sentiment analysis was applied to discern emotional tones, offering a nuanced understanding of customer sentiments towards products and services.
-- **Focused on Feature Engineering and Natural Language Processing Techniques:** Emphasized the creation of sophisticated features from raw text data, utilizing methods such as TF-IDF, word embeddings, and semantic analysis. These engineered features captured contextual meaning and sentiment nuances, translating unstructured text into quantifiable inputs for machine learning models.
-- **Employed Classification Models to Gain Insights into User Behavior:** Employed cutting-edge classification models to transform insights from reviews beyond mere descriptions. These models not only categorized sentiments but predicted potential customer behavior patterns. This strategic foresight enabled the identification of churn risks, engagement levels, and other actionable trends, driving informed decision-making.
-- **Improved Conversion Rate by Understanding Customer Sentiments:** Through the comprehensive integration of topic modeling, sentiment analysis, feature engineering, and classification models, gained a deep understanding of customer sentiments and preferences. This holistic approach enabled the tailoring of marketing strategies, service enhancements, and engagement initiatives. Leveraging this insight resulted in boosted conversion rates and cultivated brand loyalty.
+#### Data Exploration and Preparation:
+- Examined dataset attributes, structure, and size.
+- Transformed review scores into binary sentiment labels.
+- Visualized sentiment score distribution and identified potential challenges.
+
+#### Feature Engineering and Transformation:
+
+- Converted non-numeric features for analysis.
+- Partitioned data into training and testing sets.
+- Utilized text vectorization to convert reviews into numeric format.
+- Merged numeric features with vectorized data.
+
+#### Model Selection and Training:
+
+- Implemented logistic regression to predict sentiment.
+- Evaluated model accuracy on the test set.
+- Extracted significant words using regression coefficients.
+- Explored dimensionality reduction via PCA.
+- Analyzed dimensions' impact on runtime.
+- Employed K-Nearest Neighbors for accuracy assessment.
+- Investigated data point variations' effect on runtime.
+- Utilized Decision Tree classifier and assessed accuracy.
+
+#### Model Refinement and Optimization:
+
+- Utilized cross-validation to fine-tune hyperparameters.
+- Assessed model performance with confusion matrix.
+- Introduced a new feature for enhanced accuracy.
+- Justified new feature's significance.
+- Reran models with augmented dataset.
+- Re-optimized hyperparameters for superior outcomes.
+
+#### Documentation and Conclusion:
+- Compiled annotated Jupyter notebook with code.
+- Detailed step-by-step methodology explanation.
+- Presented insights from model evaluations.
+- Summarized progression from data exploration to refined models.
+
+
 
 ## 2. Predictive Analysis of West Nile Virus Spread
 
 West Nile Virus (WNV) is a potentially serious viral illness transmitted primarily by mosquitoes. In the case of the city of Chicago, Illinois, where mosquito-borne diseases pose a significant public health concern, authorities have implemented a comprehensive strategy to track and understand the prevalence of WNV. By deploying a network of traps throughout the city, they collect mosquitoes and subsequently analyze the captured specimens to gain insights into the spread of the virus.
 
-![Nile Virus](https://drive.google.com/uc?export=view&id=1MSVXY90AIOwdmoLrofhIa42n4HpkW_ug)
+<div align="center">
+  
+  ![Nile Virus](https://drive.google.com/uc?export=view&id=1MSVXY90AIOwdmoLrofhIa42n4HpkW_ug)
+</div>
+
+
+
+**Note:** This comprehensive project involves data wrangling, exploratory and statistical analysis, and model building, aiming to unveil insights into mosquito populations and West Nile Virus presence. The emphasis is on methodical data handling, insightful visualization, and rigorous statistical interpretation.
 
 Here are some steps taken to carry out the project:
 
-- **ETL Processes for Data Preparation:** Raw data collected from mosquito traps undergoes a critical transformation process known as Extract, Transform, Load (ETL). In the extraction phase, data is retrieved from various sources and prepared for analysis. During transformation, data is cleaned, structured, and standardized. This involves handling missing values, dealing with inconsistencies, and ensuring uniform formats. For instance, duplicate entries and outliers might be removed to prevent skewing analysis. Finally, in the load phase, the organized data is loaded into a suitable storage system. ETL processes ensure that the data is accurate, complete, and in a format that can be easily utilized for further analysis, forming a solid foundation for making informed decisions regarding mosquito populations and West Nile Virus (WNV) prevalence.
-- **Statistical Exploration:** This stage involves delving deep into the dataset using statistical tools and methods. Experts apply a range of descriptive statistics to summarize the data's main characteristics, such as mean, median, and standard deviation. More advanced techniques, like correlation analysis, highlight relationships between variables. Visualizations, such as scatter plots and heatmaps, bring these insights to life, revealing trends and patterns in mosquito populations and WNV prevalence. Exploring how factors like time of year, weather conditions, and geographic location impact mosquito activity helps formulate hypotheses about the drivers of WNV spread. Visualizations also play a crucial role in communicating findings to stakeholders and decision-makers.
-- **Hypothesis Testing:** Hypothesis testing is a systematic way to validate assumptions and draw meaningful conclusions from data. Techniques like t-tests and Chi-square tests assess whether observed differences or relationships between variables are statistically significant or merely due to chance. For example, a t-test might be employed to determine if there's a significant difference in mosquito counts during rainy and dry seasons. Chi-square tests could help reveal whether certain weather conditions significantly affect mosquito activity levels. By applying these tests, the project validates the significance of factors affecting WNV spread, guiding informed decision-making.
-- **Regression Predictive Modeling:** Regression predictive modeling involves creating models that predict outcomes based on input variables. In this context, models are developed to forecast mosquito counts and WNV prevalence. Variables like temperature and location act as predictors, offering insights into mosquito behavior and the dynamics of virus spread. These models not only provide insights into how these variables interact but also allow for scenario testing. For instance, by manipulating temperature inputs, one can predict the potential impact on mosquito populations. This predictive capacity equips stakeholders with tools to plan mosquito control strategies, optimize resource allocation, and respond proactively to potential outbreaks.
+#### Data Understanding and Initial Exploration
+- Discovered temporal fluctuations in mosquito counts.
+- Explored WNV prevalence across mosquito species.
+- Analyzed mosquito counts by trap types.
+- Presented key insights using visualizations.
+
+#### Core Analysis and Insights
+- Computed monthly average mosquito counts for trends.
+- Evaluated WNV occurrence variations among mosquito species.
+- Investigated correlations between different variables.
+- Assessed statistical significance of relationships.
+
+#### Linear and Logistic Models:
+- Developed linear regression for 'Mosquito number' prediction.
+- Interpreted model outcomes and limitations.
+- Formulated logistic regression for WNV presence.
+  
+#### Documentation and Conclusion:
+- Revealed insights into mosquito patterns and WNV transmission.
+- Discovered connections through rigorous statistical analysis.
+- Delivered models enhancing understanding of mosquito counts and WNV presence.
+
 
 ## 3. Trend Analysis and Visualization of Bixi Bike Usage
 BIXI Montreal (hereafter: Bixi), established in 2014 by the city of Montreal, is a non-profit organization responsible for overseeing the bike-sharing system. As of 2023, Bixi owns 10,000 bikes that can be accessed through nearly 800 stations. Our goal is to gain a high-level understanding of how people use Bixi bikes, what factors influence the volume of usage, popular stations, and overall business growth. The data used for this project is focused on April-November 2016 and
 2017.
 
-![Bixi](https://drive.google.com/uc?export=view&id=1lm4KhU2w6NXj9QXEaI-enqMlo8tr8TSZ)
+<div align="center">
+
+  ![Bixi](https://drive.google.com/uc?export=view&id=1lm4KhU2w6NXj9QXEaI-enqMlo8tr8TSZ)
+
+</div>
+
 
 Here are some of the steps taken to carry out this project:
 
