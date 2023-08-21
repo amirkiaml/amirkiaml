@@ -11,7 +11,7 @@
         - [Google|BrainStation Industry Hackathon](#Google)
         - [DeepAnalytic](#deepanalytic)
         - [Book](#book)
-        - [*Math and Data* Blog](#blog)
+        - [Blog: Math and Data](#blog)
 - [Data Analysis](#DA)
     - [Projects](#daprojects)
         - [Analysis of Culinary Patterns](#culinary)
@@ -19,7 +19,7 @@
         - [Predictive Analysis of West Nile Virus Spread](#virus)
         - [Trend Analysis and Visualization of Bixi Bike Usage](#bixi)
 - [Social and Philosophical Aspects of Data](#Social)
-    - [*Phil and Data* Blog](#philanddata)
+    - [Blog: Phil and Data](#philanddata)
     - [Voluntary Blogs](#voluntary)
 
 
@@ -133,7 +133,7 @@ I recently published a book on the mathematics of data science -- *No Bullshit M
 The book is available on Amazon for purchase. Check out https://mathanddata.com/bookstore/ for more info and a sample chapter. I'm currently looking into writing the second volume of this book.
 
 
-### 5. ∑ ➗ *Math and Data* Blog <a name="blog"></a>
+### 5. ∑ ➗ Blog: Math and Data <a name="blog"></a>
 
 I run a blog on the mathematics of data science: [mathanddata.com](https://mathanddata.com/). Here I leverage my mathematics and data science background and do further research on producing content on various topics in the crossovers of mathematics and data science. Some of the recent blog posts are as follows:
 
@@ -203,7 +203,7 @@ The culmination of my work found its expression in `professional documentation`,
 
 # 📜 Social and Philosophical Aspects of Data  <a name="Social"></a>
 
-## 💭 *Phil and Data* Blog <a name="philanddata"></a>
+## 💭 Blog: Phil and Data <a name="philanddata"></a>
 I occasionally write articles on Medium around data citizenship, data and policy, IT Ethics, and other philosophically important issues related to data. Check out my blog, [philanddata.medium.com](https://philanddata.medium.com). My most recent blogs are as follows:
 
 - [Unleashing the Power of Data in Evidence-Based Policymaking: Navigating Complex Terrain](https://philanddata.medium.com/unleashing-the-power-of-data-in-evidence-based-policymaking-navigating-complex-terrain-5eb3bb8143cc)
