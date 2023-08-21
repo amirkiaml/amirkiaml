@@ -127,8 +127,39 @@ I run a blog on the mathematics of data science: [mathanddata.com](https://matha
 
 # 📈 Data Analysis Portfolio
 
+## 1. Analysis of Culinary Habits and Patterns
+
+![Topic](https://drive.google.com/uc?export=view&id=1sDjdtFmhlXXsB2R3zzDz1nuZz119B0TF)
+
+
+### [Data Wrangling and Imputation](https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Part%201%20-%20Scraping%20www.food.com.ipynb)
+- Scraped missing information o over 520,000 recipes from food.com for ingredient quantities and items.
+- Replaced several inaccurate columns, such as  RecipeIngredientQuantities and RecipeIngredientParts with newly scraped data.
+
+### [Exploratory Data Analysis on Enhanced Recipes](https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Part%202%20-%20Basic%20Data%20Cleaning.ipynb)
+- Explored basic statistics such as mean, median, and standard deviation of relevant variables.
+- Analyzed recipe categories and ingredient usage patterns.
+- Investigated common and unique ingredients in different categories.
+- Explored recipe ratings and identified top-ranked recipes.
+- Analyzed factors contributing to high ratings.
+- Investigated nutritional aspects of recipes, focusing on extreme cases.
+- Explored recipe authors and identified potential correlations with other variables.
+- Use hypothesis testing to find relationships between author characteristics and recipe characteristics.
+- Conducted time series analysis to uncover trends in recipe publication over time.
+
+### [Topic Modeling with Bertopic](https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Part%203%20-%20Topic%20Modeling.ipynb)
+- Clustered recipes based on their ingredient topics, revealing common themes within the dataset.
+- Extracted representative keywords for each topic, providing a clear understanding of main themes.
+- Visualized topic distribution and frequencies, facilitating exploration and interpretation.
+
+### [Conusion and Presentation](https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Part%204%20-%20EDA.ipynb)
+- Compiled annotated Jupyter notebook with code.
+- Detailed step-by-step methodology explanation.
+- Presented insights from model evaluations.
+- Summarized progression from data exploration to refined models.
+
   
-## 1. Sentiment Analysis on Hotel Reviews
+## 2. Sentiment Analysis on Hotel Reviews
  This project involves analyzing hotel review data using Natural Language Processing (NLP) techniques. The project is divided into several steps, starting with Exploratory Data Analysis (EDA) and progressing to data augmentation, modeling, and iterative improvements.
 
 <div align="center">
@@ -178,7 +209,7 @@ I run a blog on the mathematics of data science: [mathanddata.com](https://matha
 
 
 
-## 2. Predictive Analysis of West Nile Virus Spread
+## 3. Predictive Analysis of West Nile Virus Spread
 
 West Nile Virus (WNV) is a potentially serious viral illness transmitted primarily by mosquitoes. In the case of the city of Chicago, Illinois, where mosquito-borne diseases pose a significant public health concern, authorities have implemented a comprehensive strategy to track and understand the prevalence of WNV. By deploying a network of traps throughout the city, they collect mosquitoes and subsequently analyze the captured specimens to gain insights into the spread of the virus.
 
@@ -186,8 +217,6 @@ West Nile Virus (WNV) is a potentially serious viral illness transmitted primari
   
   ![Nile Virus](https://drive.google.com/uc?export=view&id=1MSVXY90AIOwdmoLrofhIa42n4HpkW_ug)
 </div>
-
-
 
 **Note:** This comprehensive project involves data wrangling, exploratory and statistical analysis, and model building, aiming to unveil insights into mosquito populations and West Nile Virus presence. The emphasis is on methodical data handling, insightful visualization, and rigorous statistical interpretation.
 
@@ -216,7 +245,7 @@ Here are some steps taken to carry out the project:
 - Delivered models enhancing understanding of mosquito counts and WNV presence.
 
 
-## 3. Trend Analysis and Visualization of Bixi Bike Usage
+## 4. Trend Analysis and Visualization of Bixi Bike Usage
 BIXI Montreal (hereafter: Bixi), established in 2014 by the city of Montreal, is a non-profit organization responsible for overseeing the bike-sharing system. As of 2023, Bixi owns 10,000 bikes that can be accessed through nearly 800 stations. Our goal is to gain a high-level understanding of how people use Bixi bikes, what factors influence the volume of usage, popular stations, and overall business growth. The data used for this project is focused on April-November 2016 and
 2017.
 
