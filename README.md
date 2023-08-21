@@ -213,13 +213,13 @@ The culmination of my work found its expression in `professional documentation`,
 I occasionally write articles on Medium around data citizenship, data and policy, IT Ethics, and other philosophically important issues related to data. Check out my blog, [philanddata.medium.com](https://philanddata.medium.com). My most recent blogs are as follows:
 
 - [Unleashing the Power of Data in Evidence-Based Policymaking: Navigating Complex Terrain](https://philanddata.medium.com/unleashing-the-power-of-data-in-evidence-based-policymaking-navigating-complex-terrain-5eb3bb8143cc)
-- [Grassroots Movements in Social Impact Tech: Characteristics and Challenges](https://philanddata.medium.com/grassroots-movements-in-social-impact-tech-characteristics-and-challenges-28a3c4283808)
 - [Chomsky et. al Against Large Language Models — A Response](https://philanddata.medium.com/chomsky-et-al-against-large-language-models-a-response-6bca8c3304f2)
 - [Data Privacy and Ethics
 ](https://philanddata.medium.com/data-privacy-and-ethics-6f4ca517dcae)
 
 ## 🌱 Voluntary Blogs <a name="voluntary"></a>
-As was mentioned above, I also sometimes write voluntary content on the subject for not-for-profits such as the [Centre for Social Impact Technology](https://centreforsocialimpacttech.ca/). Here's the most recent one:
+As was mentioned above, I also sometimes write voluntary content on the subject for not-for-profits such as the [Centre for Social Impact Technology](https://centreforsocialimpacttech.ca/). Here's are the most recent ones:
+- [Grassroots Movements in Social Impact Tech: Characteristics and Challenges](https://philanddata.medium.com/grassroots-movements-in-social-impact-tech-characteristics-and-challenges-28a3c4283808)
 - [Data Citizenship at Large and in Alberta](https://www.centreforsocialimpacttech.ca/post/data-citizenship-at-large-and-in-alberta)
 </details>
 
