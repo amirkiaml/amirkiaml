@@ -128,38 +128,12 @@ I run a blog on the mathematics of data science: [mathanddata.com](https://matha
 # 📈 Data Analysis Portfolio
 
 ## 1. Analysis of Culinary Habits and Patterns
-For my project DeepChef I performed many data analysis operations and techniques. 
+For my capstone project, DeepChef, I performed many data analysis tasks. 
 
 ![Topic](https://drive.google.com/uc?export=view&id=1sDjdtFmhlXXsB2R3zzDz1nuZz119B0TF)
 
- Here is a summary of some of the steps taken:
+For the data analysis side of things, I embarked on an extensive exploration through `data wrangling`, `exploratory analysis`, `topic modeling`, `reporting`, and `presenting` the results. `Scraping` missing data from over 520,000 recipes rectified inaccuracies, while subsequent analysis unearthed ingredient trends, recipe categories, and factors driving ratings. Employing `Bertopic`, I `clustered` recipes to reveal underlying themes and presented visually striking topic distributions. Culminating in a comprehensive conclusion, I compiled an annotated `Jupyter notebook` detailing the methodology, insights, and journey from data exploration to `refined models`, showcasing a holistic and insightful narrative within the culinary data realm. The final `written report` can be found [here](https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Final_Report.pdf); the final presentation can be found [here](https://www.loom.com/share/350eed0ce28c43e297ea78e6ede7d694).
 
-
-#### [Data Wrangling and Imputation](https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Part%201%20-%20Scraping%20www.food.com.ipynb)
-- Scraped missing information o over 520,000 recipes from food.com for ingredient quantities and items.
-- Replaced several inaccurate columns, such as  RecipeIngredientQuantities and RecipeIngredientParts with newly scraped data.
-
-#### [Exploratory Data Analysis on Enhanced Recipes](https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Part%202%20-%20Basic%20Data%20Cleaning.ipynb)
-- Explored basic statistics such as mean, median, and standard deviation of relevant variables.
-- Analyzed recipe categories and ingredient usage patterns.
-- Investigated common and unique ingredients in different categories.
-- Explored recipe ratings and identified top-ranked recipes.
-- Analyzed factors contributing to high ratings.
-- Investigated nutritional aspects of recipes, focusing on extreme cases.
-- Explored recipe authors and identified potential correlations with other variables.
-- Use hypothesis testing to find relationships between author characteristics and recipe characteristics.
-- Conducted time series analysis to uncover trends in recipe publication over time.
-
-#### [Topic Modeling with Bertopic](https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Part%203%20-%20Topic%20Modeling.ipynb)
-- Clustered recipes based on their ingredient topics, revealing common themes within the dataset.
-- Extracted representative keywords for each topic, providing a clear understanding of main themes.
-- Visualized topic distribution and frequencies, facilitating exploration and interpretation.
-
-#### [Conusion and Presentation](https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Part%204%20-%20EDA.ipynb)
-- Compiled annotated Jupyter notebook with code.
-- Detailed step-by-step methodology explanation.
-- Presented insights from model evaluations.
-- Summarized progression from data exploration to refined models.
 
   
 ## 2. Sentiment Analysis on Hotel Reviews
@@ -171,7 +145,6 @@ For my project DeepChef I performed many data analysis operations and techniques
 </div>
  
 The project begins with sentiment `label transformation` and perceptive `visualization` of `sentiment score` distribution, identifying challenges. The road leads to `feature engineering`, encompassing non-numeric conversion, data partitioning, and `text vectorization`, creating a fusion of insights. Several ML algorithms (`Logistic regression`, `PCA`. `K-Nearest Neighbors` and `Decision Tree`) were used for sentiment prediction. Refinement ensued with cross-validation and a new feature introduction, enhancing accuracy and validation.
-
 
 
 ## 3. Predictive Analysis of West Nile Virus Spread
