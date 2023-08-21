@@ -190,7 +190,6 @@ The culmination of my work found its expression in `professional documentation`,
 # 📜 Social and Philosophical Aspects of Data  <a name="Social"></a>
 Aside from technical skills and projects in the data space, I regularly engage with less social, philosophical, and ethical sides of it too.
 
-![social_impact](https://github.com/amirkiaml/media/blob/main/social_impact.png)
 ## 💭 Blog: Phil and Data <a name="philanddata"></a>
 I occasionally write articles on Medium around data citizenship, policy, IT Ethics, and other socially and philosophically important issues related to data. Check out my blog, [philanddata.medium.com](https://philanddata.medium.com). My most recent blogs are as follows:
 
