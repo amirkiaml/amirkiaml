@@ -27,9 +27,8 @@
 # 🌟 Introduction <a name="introduction"></a>
 Hi there! Amir here, a data scientist with an academic background in math and philosophy. I love all things data but particularly find Natural language Processing (NLP) very fascinating. On the philosophical side of things, I like diving deep into questions of machine consciousness, social impact tech, AI safety, and IT ethics.
 
-
-📝 [Resume](https://drive.google.com/file/d/1d5LKCJYuoxv8kU8tgbgKurNM-VEMDnTK/view?usp=sharing)
-📝 [Academic CV](https://drive.google.com/file/d/1ITlkwcnUVF85qjkpPhkJ4s8CWt6H3TVl/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1d5LKCJYuoxv8kU8tgbgKurNM-VEMDnTK/view?usp=sharing)
+- 📝 [Academic CV](https://drive.google.com/file/d/1ITlkwcnUVF85qjkpPhkJ4s8CWt6H3TVl/view?usp=sharing)
 
 
 # 🎓 Academic Background and Transferrable Skills <a name="academic"></a>
