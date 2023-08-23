@@ -58,7 +58,7 @@ In data science, I have used the following tools, some more than others:
 
 </div>
 
-- **Database:** `MySQL`, `PostgreSQL`
+- **Database:** `MySQL`, [`PostgreSQL`](https://www.udemy.com/certificate/UC-25b2863f-effd-40c0-8d67-b14d2999a4d5/)
 - **Programming:** `Python`, `R`, `Bash`,
 - **Statistics:** `Hypothesis Testing`, `A/B tests`, `Regression`
 - **Data Visualization:** `Tableau`, `Matplotlib`, `Plotly`, `Seaborn`
