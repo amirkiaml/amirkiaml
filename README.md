@@ -115,7 +115,7 @@ I recently published a book on the mathematics of data science -- *No Bullshit M
   <img src="https://mathanddata.com/wp-content/uploads/2023/05/book-cover-1-233x300-2.png" alt="Book Cover" style="max-width: 100%; height: auto;">
 </div>
 
-- The book is available on Amazon for purchase. Check out https://mathanddata.com/bookstore/ for more info and a sample chapter. I'm currently looking into writing the second volume of this book.
+The book is available on Amazon for purchase. Check out https://mathanddata.com/bookstore/ for more info and a sample chapter. I'm currently looking into writing the second volume of this book.
 
 
 ### 5. ∑ ➗ Blog: Math and Data <a name="blog"></a>
