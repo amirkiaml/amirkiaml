@@ -83,7 +83,7 @@ In order to ensure the app is up and running on `Streamlit`'s website, I have de
 
 ### 2. <img src="https://1000logos.net/wp-content/uploads/2016/11/New-Google-Logo.jpg" alt="SciPy Icon" width="28" height="29" /> Google|BrainStation Industry Hackathon <a name="Google"></a>
 
-<img align="left" alt="Coding" width="550" src="https://github.com/amirkiaml/Google-Industry-Day/blob/main/Image.png">
+<img align="left" alt="Coding" width="550" src="https://github.com/amirkiaml/media/blob/main/googl_industry.png">
 
 Recently, I participated in a 24-hour `hackathon` hosted by **`Google`** and **`BrainStation`**, where we were asked to envision new ideas to educate users about `AI-powered` Google products while ensuring user trust and avoiding misunderstandings. Thanks to our amazing `team`, we were announced as the winner 🏆 of the contest. Our initial focus was to understand the key reasons behind the general population's mistrust in the use of AI. Through extensive research, we identified three significant factors contributing to this mistrust: the lack of `transparency`, concerns about `privacy` invasion, and the difficulty in establishing `ground truth` for evaluating AI algorithm results in products. Addressing these concerns is pivotal in building trust and confidence in AI technologies.
 
