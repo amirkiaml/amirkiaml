@@ -134,16 +134,14 @@ For my data analysis projects, I have used most of the same tools listed for Dat
 
 The central aim of this project is to apply the skills and knowledge of `Big Data` to the Google `Ngrams` dataset, a remarkable creation by Google's research team. This dataset has been meticulously crafted through the analysis of content derived from Google Books, encompassing a vast repository that encapsulates around 4% of the entirety of printed books throughout history. This extensive collection spans across epochs, beginning in the 1800s and stretching into the 2000s. 
 
-<img align="left" alt="Coding" width="550" src="https://github.com/amirkiaml/media/blob/main/Google%20ngrams.png">
+<img align="right" alt="Coding" width="350" src="https://github.com/amirkiaml/media/blob/main/Google%20ngrams.png">
 
 The primary focus is on the proficient `loading`, `filtering`, and dynamic `visualization` of an expansive `real-world` dataset. This task will be carried out within the realm of a `cloud-based` distributed computing environment, making optimal use of prominent technologies including `Hadoop`, `Spark`, `Hive`, and the `S3 filesystem`, all of which are integral components of the process. A comprehensive and professionally structured `report` is provided at the end, encapsulating a concise overview of our findings.
 
-
-
 ## 2. Analysis of Culinary Patterns <a name="culinary"></a>
-For my capstone project, DeepChef, I performed many data analysis tasks. 
+For my capstone project, DeepChef, I performed many data analysis tasks.
 
-<img align="left" alt="Coding" width="550" src="https://github.com/amirkiaml/media/blob/main/topics.png">
+<img align="left" alt="Coding" width="450" src="https://github.com/amirkiaml/media/blob/main/topics.png">
 
 For the data analysis side of things, I embarked on an extensive exploration through `data wrangling`, `exploratory analysis`, `topic modeling`, `reporting`, and `presenting` the results. `Scraping` missing data from over 520,000 recipes rectified inaccuracies, while subsequent analysis unearthed ingredient trends, recipe categories, and factors driving ratings. Employing `Bertopic`, I `clustered` recipes to reveal underlying themes and presented visually striking topic distributions. Culminating in a comprehensive conclusion, I compiled an annotated `Jupyter notebook` detailing the methodology, insights, and journey from data exploration to `refined models`, showcasing a holistic and insightful narrative within the culinary data realm. 
 
@@ -164,7 +162,7 @@ The project begins with sentiment `label transformation` and perceptive `visuali
 
 West Nile Virus (WNV) is a potentially serious viral illness transmitted primarily by mosquitoes. In the case of the city of Chicago, Illinois, where mosquito-borne diseases pose a significant public health concern, authorities have implemented a comprehensive strategy to track and understand the prevalence of WNV. By deploying a network of traps throughout the city, they collect mosquitoes and subsequently analyze the captured specimens to gain insights into the spread of the virus.
 
-<img align="left" alt="Coding" width="550" src="https://github.com/amirkiaml/media/blob/main/virus.png">
+<img align="right" alt="Coding" width="450" src="https://github.com/amirkiaml/media/blob/main/virus.png">
 
 This project starts by understanding and exploring the data. I uncovered patterns of mosquito counts over time, studied the prevalence of West Nile Virus (WNV) across mosquito species, and analyzed how mosquito counts varied by trap type. `Visual aids` helped present key takeaways clearly. Digging deeper, I computed average mosquito counts each month, compared WNV occurrence across species and dived into the `correlations` between different variables. I assessed the significance of these connections, grounding my insights in solid `statistics`. Moving forward, I developed models: a `linear regression` for predicting mosquito numbers and a `logistic regression` to understand WNV presence. My documentation wrapped it all up, revealing valuable mosquito behavior insights and shedding light on WNV transmission dynamics. I showcased connections uncovered through `rigorous analysis`, and how these models enriched our comprehension of mosquito counts and the elusive presence of WNV.
 
@@ -173,7 +171,7 @@ This project starts by understanding and exploring the data. I uncovered pattern
 BIXI Montreal (hereafter: Bixi), established in 2014 by the city of Montreal, is a non-profit organization responsible for overseeing the bike-sharing system. As of 2023, Bixi owns 10,000 bikes that can be accessed through nearly 800 stations. Our goal is to gain a high-level understanding of how people use Bixi bikes, what factors influence the volume of usage, popular stations, and overall business growth. The data used for this project is focused on April-November 2016 and
 2017.
 
-<img align="left" alt="Coding" width="550" src="https://github.com/amirkiaml/media/blob/main/Bixi.png">
+<img align="left" alt="Coding" width="480" src="https://github.com/amirkiaml/media/blob/main/Bixi.png">
 
 
 In this project, I seamlessly blended essential skills to conduct in-depth data analysis, harness interactive `Tableau visualizations`, and demonstrate proficient `SQL querying`. This dynamic trio formed the backbone of a thorough `exploratory analysis` of Bixi bike usage data. Through adept SQL utilization, I efficiently extracted, transformed, and prepared raw data for analysis, ensuring its conversion into valuable insights.
