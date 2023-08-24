@@ -75,32 +75,32 @@ In data science, I have used the following tools, some more than others:
 
 <img align="right" alt="Coding" width="400" src="https://github.com/amirkiaml/DeepChef-BSTN-Capstone/blob/main/Deepchef.png?raw=true">
 
-I created a recommender system on a dataset of over 520k recipes scraped from [food.com](www.food.com) as my capstone project for the bootcamp -- titled **DeepChef**. DeepChef I harnesses the power of state-of-the-art large langue models and semantic embeddings to create a recommender system that takes in users' favorite recipes -- ingredients or instructions, along with themes or other elements -- and returns the 5-most similar recipes from the dataset. To follow the most recent updates on DeepChef, check out [this repository](https://github.com/amirkiaml/DeepChef-BSTN-Capstone). 
+I created a recommender system on a dataset of over `520k` recipes `scraped` from [food.com](www.food.com) as my capstone project for the bootcamp -- titled **DeepChef**. DeepChef I harnesses the power of state-of-the-art large `language models` and `semantic embeddings` to create a `recommender system` that takes in users' favorite recipes -- ingredients or instructions, along with themes or other elements -- and returns the 5-most similar recipes from the dataset. To follow the most recent updates on DeepChef, check out [this repository](https://github.com/amirkiaml/DeepChef-BSTN-Capstone). 
 
-I have also deployed the recommender system from Notebooks 5 and 6 into an online interactive app that can be accessed through this address: https://deepchef.streamlit.app.
+I have also deployed the recommender system from Notebooks 5 and 6 into an online `interactive app` that can be accessed through this address: https://deepchef.streamlit.app.
 
-In order to ensure the app is up and running on Streamlit's website, I have deployed the recommender system only on 10% of the data that was originally curated for this purpose (see Notebook 6 of the project's repo). I hope to be able to scale the model in the near future.
+In order to ensure the app is up and running on `Streamlit`'s website, I have deployed the recommender system only on 10% of the data that was originally curated for this purpose (see Notebook 6 of the project's repo). I hope to be able to scale the model in the near future.
 
 ### 2. <img src="https://1000logos.net/wp-content/uploads/2016/11/New-Google-Logo.jpg" alt="SciPy Icon" width="28" height="29" /> Google|BrainStation Industry Hackathon <a name="Google"></a>
 
 <img align="left" alt="Coding" width="550" src="https://github.com/amirkiaml/Google-Industry-Day/blob/main/Image.png">
 
-Recently, I participated in a 24-hour hackathon hosted by **Google** and **BrainStation**, where we were asked to envision new ideas to educate users about AI-powered Google products while ensuring user trust and avoiding misunderstandings. Thanks to our amazing team, we were announced as the winner 🏆 of the contest. Our initial focus was to understand the key reasons behind the general population's mistrust in the use of AI. Through extensive research, we identified three significant factors contributing to this mistrust: the lack of transparency, concerns about privacy invasion, and the difficulty in establishing ground truth for evaluating AI algorithm results in products. Addressing these concerns is pivotal in building trust and confidence in AI technologies.
+Recently, I participated in a 24-hour `hackathon` hosted by **`Google`** and **`BrainStation`**, where we were asked to envision new ideas to educate users about `AI-powered` Google products while ensuring user trust and avoiding misunderstandings. Thanks to our amazing `team`, we were announced as the winner 🏆 of the contest. Our initial focus was to understand the key reasons behind the general population's mistrust in the use of AI. Through extensive research, we identified three significant factors contributing to this mistrust: the lack of `transparency`, concerns about `privacy` invasion, and the difficulty in establishing `ground truth` for evaluating AI algorithm results in products. Addressing these concerns is pivotal in building trust and confidence in AI technologies.
 
-As a result, we introduced "Insights," a powerful widget integrated into the Google platform. "Insights" leverages the recent breakthrough in large language models to provide users with a unique glimpse behind the curtain, offering clear explanations of how AI enhances their experience, utilizes their data, and delivers the results they receive. With "Insights," we aim to foster transparency and empower users to confidently embrace AI-related features. To learn more about "Insights," check out the project's [dedicated GitHub repository](https://github.com/amirkiaml/Google-Industry-Day).
+As a result, we introduced "Insights," a powerful `widget` integrated into the Google platform. Insights leverages the recent breakthrough in large language models to provide users with a unique glimpse behind the curtain, offering clear explanations of how AI enhances their experience, utilizes their data, and delivers the results they receive. With Insights, we aim to foster transparency and empower users to confidently embrace AI-related features. To learn more about Insights, check out the project's [dedicated GitHub repository](https://github.com/amirkiaml/Google-Industry-Day).
 
 
 ### 3. 🧠 DeepAnalytic <a name="deepanalytic"></a>
-DeepAnalytic is an end-to-end project dedicated to my research project on utilizing LLMs for various use cases in the context of Analytic Philosophy. A large amount of specialized philosophical data has been scraped from leading academic journals. Various cutting-edge NLP tasks will be performed on the collected data, for purposes of research.
+DeepAnalytic is an end-to-end project dedicated to my research project on utilizing `LLMs` for various use cases in the context of `Analytic Philosophy`. A large amount of specialized philosophical data has been `scraped` from leading academic `journals`. Various cutting-edge `NLP` tasks will be performed on the collected data, for purposes of research.
 <img align="right" alt="Coding" width="400" src="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif">
 
-The metadata of 28 Springer Nature philosophical journals has been scraped. This records the metadata of around 800k pages of philosophical texts. The text data of other philosophical journals, from other publishers such as Oxford University Press, is also scraped. In particular, over 10k pages of papers from the leading journal *Analysis*, alongside their metadata, are scraped.
+The metadata of 28 `Springer Nature` philosophical journals has been scraped. This records the metadata of around `800k pages` of philosophical texts. The text data of other philosophical journals, from other publishers such as `Oxford University Press`, is also scraped. In particular, over `10k` pages of papers from the leading journal *`Analysis`*, alongside their metadata, are scraped.
 
 Aside from the basic EDA and NLP analyses, various cutting-edge NLP tasks are scheduled to be performed on the scraped data in the near future. These tasks include:
 
-- Fine-tuning a sentence transformer on the specialized text data to create domain-specific vectorization, which will be used for topic modeling and semantic search purposes,
-- Creating philosophy-specific Natural Language Inference (NLI) datasets for benchmarking,
-- Question answering on philosophical text data.
+- `Fine-tuning` a `sentence transformer` on the specialized text data to create domain-specific `vectorization`, which will be used for `topic modeling` and `semantic search` purposes,
+- Creating philosophy-specific `Natural Language Inference` (`NLI`) datasets for `benchmarking`,
+- `Question answering` on philosophical text data.
 
 You can learn more about DeepAnalytic by checking out its dedicated repository, found [here](https://github.com/amirkiaml/DeepAnalytic).
 
