@@ -181,7 +181,6 @@ Central to the project was the creation of an impactful visualization dashboard,
 The culmination of my work found its expression in `professional documentation`, expertly merging the `analytical rigor` of data exploration with the communicative prowess of visualizations. These findings were translated into `actionable recommendations` through clear explanations complemented by visually engaging charts and graphs. This documentation, bridging the gap between technical insights and pragmatic decision-making, catered comprehensively to `diverse stakeholders`.
 
 - `SQL Codes` ("Part 1" to "Part 4") can be found [here](https://github.com/amirkiaml/Bixi/blob/main/Bixi_Codes.sql).
-- Final `SQL report` can be found [here](https://github.com/amirkiaml/Bixi/blob/main/SQL%20Report.pdf).
 - Final `Tableau` sheets and reports will be uploaded soon.
 
 # 📜 Social and Philosophical Aspects of Data  <a name="Social"></a>
