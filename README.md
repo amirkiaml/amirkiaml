@@ -5,7 +5,17 @@
 - [Introduction](#introduction)
 - [Academic Background and Transferrable Skills](#academic)
 - [Data Science](#DS)
+  - [DeepChef](#deepchef)
+  - [Google-BtainStation Hackhathon](#google)
+  - [DeepAnalytic](#deepanalytic)
+  - [Book](#book)
+  - [Blog](#blog)
 - [Data Analysis](#DA)
+  - [Big Data Wrangling with Google Books Ngrams](#ngram)
+  - [Analysis of Culinary Patterns](#culinary)
+  - [Sentiment Analysis on Hotel Reviews](#sentiment)
+  - [Predictive Analysis of West Nile Virus Spread](#virus)
+  - [Trend Analysis and Visualization of Bixi Bike Usage](#bixi)
 - [Social and Philosophical Aspects of Data](#Social)
 - [Contact](#contact)
 
@@ -81,7 +91,7 @@ I have also deployed the recommender system from Notebooks 5 and 6 into an onlin
 
 In order to ensure the app is up and running on `Streamlit`'s website, I have deployed the recommender system only on 10% of the data that was originally curated for this purpose (see Notebook 6 of the project's repo). I hope to be able to scale the model in the near future.
 
-### 2. <img src="https://1000logos.net/wp-content/uploads/2016/11/New-Google-Logo.jpg" alt="SciPy Icon" width="28" height="29" /> Google|BrainStation Industry Hackathon <a name="Google"></a>
+### 2. <img src="https://1000logos.net/wp-content/uploads/2016/11/New-Google-Logo.jpg" alt="SciPy Icon" width="28" height="29" /> Google|BrainStation Industry Hackathon <a name="google"></a>
 
 <img align="left" alt="Coding" width="550" src="https://github.com/amirkiaml/media/blob/main/googl_industry.png">
 
@@ -130,7 +140,7 @@ For my data analysis projects, I have used most of the same tools listed for Dat
 
 # Projects <a name="daprojects"></a>
 
-## 1. Big Data Wrangling with Google Books Ngrams
+## 1. Big Data Wrangling with Google Books Ngrams <a name="ngram"></a>
 
 The central aim of this project is to apply the skills and knowledge of `Big Data` to the Google `Ngrams` dataset, a remarkable creation by Google's research team. This dataset has been meticulously crafted through the analysis of content derived from Google Books, encompassing a vast repository that encapsulates around 4% of the entirety of printed books throughout history. This extensive collection spans across epochs, beginning in the 1800s and stretching into the 2000s. 
 
