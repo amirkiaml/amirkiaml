@@ -167,6 +167,10 @@ For the data analysis side of things, I embarked on an extensive exploration thr
 
 The project begins with sentiment `label transformation` and perceptive `visualization` of `sentiment score` distribution, identifying challenges. The road leads to `feature engineering`, encompassing non-numeric conversion, data partitioning, and `text vectorization`, creating a fusion of insights. Several ML algorithms (`Logistic regression`, `PCA`. `K-Nearest Neighbors` and `Decision Tree`) were used for sentiment prediction. Refinement ensued with cross-validation and a new feature introduction, enhancing accuracy and validation.
 
+The project has two parts:
+- [Part 1](https://github.com/amirkiaml/Sentiment-Analysis-Hotel-Reviews/blob/main/Amirhossein_Kiani_NLP%20With%20Hotel%20Review%20Part%201.ipynb): Basic NLP of Hotel Reviews
+- [Part 2](https://github.com/amirkiaml/Sentiment-Analysis-Hotel-Reviews/blob/main/Amirhossein_Kiani_NLP%20With%20Hotel%20Review%20Part%202.ipynb): PCA, KNN, and Decision Trees
+
 
 ## 4. Predictive Analysis of West Nile Virus Spread <a name="virus"></a>
 
