@@ -180,6 +180,10 @@ West Nile Virus (WNV) is a potentially serious viral illness transmitted primari
 
 This project starts by understanding and exploring the data. I uncovered patterns of mosquito counts over time, studied the prevalence of West Nile Virus (WNV) across mosquito species, and analyzed how mosquito counts varied by trap type. `Visual aids` helped present key takeaways clearly. Digging deeper, I computed average mosquito counts each month, compared WNV occurrence across species and dived into the `correlations` between different variables. I assessed the significance of these connections, grounding my insights in solid `statistics`. Moving forward, I developed models: a `linear regression` for predicting mosquito numbers and a `logistic regression` to understand WNV presence. My documentation wrapped it all up, revealing valuable mosquito behavior insights and shedding light on WNV transmission dynamics. I showcased connections uncovered through `rigorous analysis`, and how these models enriched our comprehension of mosquito counts and the elusive presence of WNV.
 
+This project has two parts, containing two Jupyter notebooks:
+- [Part 1](https://github.com/amirkiaml/Stats-and-Public-Health/blob/main/Amirhossein_Kiani_Stats%20and%20Public%20Health%20Part%201.ipynb)
+- [Part 2](https://github.com/amirkiaml/Stats-and-Public-Health/blob/main/Amirhossein_Kiani_Stats%20and%20Public%20Health%20Part%202.ipynb)
+
 
 ## 5. Trend Analysis and Visualization of Bixi Bike Usage <a name="bixi"></a>
 BIXI Montreal (hereafter: Bixi), established in 2014 by the city of Montreal, is a non-profit organization responsible for overseeing the bike-sharing system. As of 2023, Bixi owns 10,000 bikes that can be accessed through nearly 800 stations. Our goal is to gain a high-level understanding of how people use Bixi bikes, what factors influence the volume of usage, popular stations, and overall business growth. The data used for this project is focused on April-November 2016 and
