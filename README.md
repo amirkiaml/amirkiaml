@@ -200,11 +200,10 @@ Aside from technical skills and projects in the data space, I regularly engage w
 
 ## 💭 Blog: Phil and Data <a name="philanddata"></a>
 I occasionally write articles on Medium around data citizenship, policy, IT Ethics, and other socially and philosophically important issues related to data. Check out my blog, [philanddata.medium.com](https://philanddata.medium.com). My most recent blogs are as follows:
-
+- [Unveiling the Power of Cost-Benefit Analysis through Data and Statistics](https://philanddata.medium.com/unveiling-the-power-of-cost-benefit-analysis-through-data-and-statistics-1198a17aa4cd)
 - [Unleashing the Power of Data in Evidence-Based Policymaking: Navigating Complex Terrain](https://philanddata.medium.com/unleashing-the-power-of-data-in-evidence-based-policymaking-navigating-complex-terrain-5eb3bb8143cc)
 - [Chomsky et. al Against Large Language Models — A Response](https://philanddata.medium.com/chomsky-et-al-against-large-language-models-a-response-6bca8c3304f2)
-- [Data Privacy and Ethics
-](https://philanddata.medium.com/data-privacy-and-ethics-6f4ca517dcae)
+- [Data Privacy and Ethics](https://philanddata.medium.com/data-privacy-and-ethics-6f4ca517dcae)
 
 ## 🌱 Voluntary Blogs <a name="voluntary"></a>
 I also sometimes write voluntary content on the subject for not-for-profits such as the [Centre for Social Impact Technology](https://centreforsocialimpacttech.ca/). Here's are the most recent ones:
