@@ -146,6 +146,10 @@ The central aim of this project is to apply the skills and knowledge of `Big Dat
 
 The primary focus is on the proficient `loading`, `filtering`, and dynamic `visualization` of an expansive `real-world` dataset. This task will be carried out within the realm of a `cloud-based` distributed computing environment, making optimal use of prominent technologies including `Hadoop`, `Spark`, `Hive`, and the `S3 filesystem`, all of which are integral components of the process. A comprehensive and professionally structured `report` is provided at the end, encapsulating a concise overview of our findings.
 
+This project contains two files:
+- [File 1](https://github.com/amirkiaml/Google-ngarms/blob/main/Introduction%20and%20Q1-Q3%20Walkthrough.pdf): a PDF of the steps taken to set up AWS S3 Clusters and Spark in the cloud
+- [File 2](https://github.com/amirkiaml/Google-ngarms/blob/main/Amirhossein_Kiani_Big_Data_Wrangling.ipynb): a Jupyter notebook containing big data wrangling codes on the Google Ngrams dataset.
+
 ## 2. Analysis of Culinary Patterns <a name="culinary"></a>
 For my capstone project, DeepChef, I performed many data analysis tasks.
 
