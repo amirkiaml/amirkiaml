@@ -136,8 +136,6 @@ I run a blog on the mathematics of data science: [mathanddata.com](https://matha
 
 For my data analysis projects, I have used most of the same tools listed for Data Science. Here are some of the projects that I have worked on. 
 
-**NOTE:** Several of the following projects were carried out as part of BrainStation bootcamp, and I cannot share the source codes, visualizations, or reports with the public, as they can be reused by the next cohorts' students. If you're a recruiter or anyone else other than a current Data Science student at BrainStation, feel free to request a copy of the relevant files.
-
 # Projects <a name="daprojects"></a>
 
 ## 1. Big Data Wrangling with Google Books Ngrams <a name="ngram"></a>
@@ -181,8 +179,8 @@ West Nile Virus (WNV) is a potentially serious viral illness transmitted primari
 This project starts by understanding and exploring the data. I uncovered patterns of mosquito counts over time, studied the prevalence of West Nile Virus (WNV) across mosquito species, and analyzed how mosquito counts varied by trap type. `Visual aids` helped present key takeaways clearly. Digging deeper, I computed average mosquito counts each month, compared WNV occurrence across species and dived into the `correlations` between different variables. I assessed the significance of these connections, grounding my insights in solid `statistics`. Moving forward, I developed models: a `linear regression` for predicting mosquito numbers and a `logistic regression` to understand WNV presence. My documentation wrapped it all up, revealing valuable mosquito behavior insights and shedding light on WNV transmission dynamics. I showcased connections uncovered through `rigorous analysis`, and how these models enriched our comprehension of mosquito counts and the elusive presence of WNV.
 
 This project has two parts, containing two Jupyter notebooks:
-- [Part 1](https://github.com/amirkiaml/Stats-and-Public-Health/blob/main/Amirhossein_Kiani_Stats%20and%20Public%20Health%20Part%201.ipynb)
-- [Part 2](https://github.com/amirkiaml/Stats-and-Public-Health/blob/main/Amirhossein_Kiani_Stats%20and%20Public%20Health%20Part%202.ipynb)
+- [Part 1](https://github.com/amirkiaml/Stats-and-Public-Health/blob/main/Amirhossein_Kiani_Stats%20and%20Public%20Health%20Part%201.ipynb): EDA
+- [Part 2](https://github.com/amirkiaml/Stats-and-Public-Health/blob/main/Amirhossein_Kiani_Stats%20and%20Public%20Health%20Part%202.ipynb): Statistical Analysis
 
 
 ## 5. Trend Analysis and Visualization of Bixi Bike Usage <a name="bixi"></a>
