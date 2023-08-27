@@ -147,8 +147,8 @@ The central aim of this project is to apply the skills and knowledge of `Big Dat
 The primary focus is on the proficient `loading`, `filtering`, and dynamic `visualization` of an expansive `real-world` dataset. This task will be carried out within the realm of a `cloud-based` distributed computing environment, making optimal use of prominent technologies including `Hadoop`, `Spark`, `Hive`, and the `S3 filesystem`, all of which are integral components of the process. A comprehensive and professionally structured `report` is provided at the end, encapsulating a concise overview of our findings.
 
 This project contains two files:
-- [File 1](https://github.com/amirkiaml/Google-ngarms/blob/main/Introduction%20and%20Q1-Q3%20Walkthrough.pdf): a PDF of the steps taken to set up AWS S3 Clusters and Spark in the cloud
-- [File 2](https://github.com/amirkiaml/Google-ngarms/blob/main/Amirhossein_Kiani_Big_Data_Wrangling.ipynb): a Jupyter notebook containing big data wrangling codes on the Google Ngrams dataset.
+- [File 1](https://github.com/amirkiaml/Google-ngarms/blob/main/Introduction%20and%20Q1-Q3%20Walkthrough.pdf): a PDF of the steps taken to set up `AWS` `S3` buckets and `Spark` in the `cloud`.
+- [File 2](https://github.com/amirkiaml/Google-ngarms/blob/main/Amirhossein_Kiani_Big_Data_Wrangling.ipynb): a Jupyter notebook containing `big data wrangling` codes on the Google Ngrams dataset.
 
 ## 2. Analysis of Culinary Patterns <a name="culinary"></a>
 For my capstone project, DeepChef, I performed many data analysis tasks.
@@ -170,8 +170,8 @@ For the data analysis side of things, I embarked on an extensive exploration thr
 The project begins with sentiment `label transformation` and perceptive `visualization` of `sentiment score` distribution, identifying challenges. The road leads to `feature engineering`, encompassing non-numeric conversion, data partitioning, and `text vectorization`, creating a fusion of insights. Several ML algorithms (`Logistic regression`, `PCA`. `K-Nearest Neighbors` and `Decision Tree`) were used for sentiment prediction. Refinement ensued with cross-validation and a new feature introduction, enhancing accuracy and validation.
 
 The project has two parts:
-- [Part 1](https://github.com/amirkiaml/Sentiment-Analysis-Hotel-Reviews/blob/main/Amirhossein_Kiani_NLP%20With%20Hotel%20Review%20Part%201.ipynb): Basic NLP of Hotel Reviews
-- [Part 2](https://github.com/amirkiaml/Sentiment-Analysis-Hotel-Reviews/blob/main/Amirhossein_Kiani_NLP%20With%20Hotel%20Review%20Part%202.ipynb): PCA, KNN, and Decision Trees
+- [Part 1](https://github.com/amirkiaml/Sentiment-Analysis-Hotel-Reviews/blob/main/Amirhossein_Kiani_NLP%20With%20Hotel%20Review%20Part%201.ipynb): Basic `NLP` of Hotel Reviews.
+- [Part 2](https://github.com/amirkiaml/Sentiment-Analysis-Hotel-Reviews/blob/main/Amirhossein_Kiani_NLP%20With%20Hotel%20Review%20Part%202.ipynb): `PCA`, `KNN`, and `Decision Trees`.
 
 
 ## 4. Predictive Analysis of West Nile Virus Spread <a name="virus"></a>
@@ -183,8 +183,8 @@ West Nile Virus (WNV) is a potentially serious viral illness transmitted primari
 This project starts by understanding and exploring the data. I uncovered patterns of mosquito counts over time, studied the prevalence of West Nile Virus (WNV) across mosquito species, and analyzed how mosquito counts varied by trap type. `Visual aids` helped present key takeaways clearly. Digging deeper, I computed average mosquito counts each month, compared WNV occurrence across species and dived into the `correlations` between different variables. I assessed the significance of these connections, grounding my insights in solid `statistics`. Moving forward, I developed models: a `linear regression` for predicting mosquito numbers and a `logistic regression` to understand WNV presence. My documentation wrapped it all up, revealing valuable mosquito behavior insights and shedding light on WNV transmission dynamics. I showcased connections uncovered through `rigorous analysis`, and how these models enriched our comprehension of mosquito counts and the elusive presence of WNV.
 
 This project has two parts, containing two Jupyter notebooks:
-- [Part 1](https://github.com/amirkiaml/Stats-and-Public-Health/blob/main/Amirhossein_Kiani_Stats%20and%20Public%20Health%20Part%201.ipynb): EDA
-- [Part 2](https://github.com/amirkiaml/Stats-and-Public-Health/blob/main/Amirhossein_Kiani_Stats%20and%20Public%20Health%20Part%202.ipynb): Statistical Analysis
+- [Part 1](https://github.com/amirkiaml/Stats-and-Public-Health/blob/main/Amirhossein_Kiani_Stats%20and%20Public%20Health%20Part%201.ipynb): `EDA`.
+- [Part 2](https://github.com/amirkiaml/Stats-and-Public-Health/blob/main/Amirhossein_Kiani_Stats%20and%20Public%20Health%20Part%202.ipynb): `Statistical Analysis`.
 
 
 ## 5. Trend Analysis and Visualization of Bixi Bike Usage <a name="bixi"></a>
