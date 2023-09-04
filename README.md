@@ -23,6 +23,8 @@
 # 🌟 Introduction <a name="introduction"></a>
 Hi there! Amir here, a data scientist with an academic background in math and philosophy. I love all things data but particularly find Natural language Processing (NLP) very fascinating. On the philosophical side of things, I like diving deep into questions of machine consciousness, social impact tech, AI safety, and IT ethics.
 
+[Resume](https://drive.google.com/file/d/1xQZl1iN3JSzHbjOPh1wRAHsjwxhNPQvD/view?usp=sharing)
+
 # 🎓 Academic Background and Transferrable Skills <a name="academic"></a>
 
 Before transitioning into Data Science, I spent over 12 years in academia. I did a BSc in Mathematics, an MA and a PhD in Philosophy. Throughout these years I acquired a wide range of hard and soft skills that are transferrable in industry. In short, some of these skills are as follows:
