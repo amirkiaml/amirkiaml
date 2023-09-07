@@ -101,6 +101,8 @@ In order to ensure the app is up and running on `Streamlit`'s website, I have de
 
 Recently, I participated in a 24-hour `hackathon` hosted by **`Google`** and **`BrainStation`**, where we were asked to envision new ideas to educate users about `AI-powered` Google products while ensuring user trust and avoiding misunderstandings. Thanks to our amazing `team`, we were announced as the winner 🏆 of the contest. Our initial focus was to understand the key reasons behind the general population's mistrust in the use of AI. Through extensive research, we identified three significant factors contributing to this mistrust: the lack of `transparency`, concerns about `privacy` invasion, and the difficulty in establishing `ground truth` for evaluating AI algorithm results in products. Addressing these concerns is pivotal in building trust and confidence in AI technologies.
 
+<img align="right" alt="Coding" width="550" src="https://github.com/amirkiaml/media/blob/main/industry_cert.png">
+
 As a result, we introduced "Insights," a powerful `widget` integrated into the Google platform. Insights leverages the recent breakthrough in large language models to provide users with a unique glimpse behind the curtain, offering clear explanations of how AI enhances their experience, utilizes their data, and delivers the results they receive. With Insights, we aim to foster transparency and empower users to confidently embrace AI-related features. To learn more about Insights, check out the project's [dedicated GitHub repository](https://github.com/amirkiaml/Google-Industry-Day).
 
 
