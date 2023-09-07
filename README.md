@@ -25,7 +25,7 @@ Hi there! Amir here, a data scientist with an academic background in math and ph
 
 📄[Resume](https://drive.google.com/file/d/1_nvSbqxQdKpYnM79xMvYJtw20BEqvbqk/view?usp=sharing)
 
-👨‍💼 *I'm currently looking for opportunities in the data space, particularly Data Science and Analysis.*
+👨‍💼👨‍💼 **I'm currently looking for opportunities in the data space, particularly Data Science and Analysis.** 👨‍💼👨‍💼
 
 # 🎓 Academic Background and Transferrable Skills <a name="academic"></a>
 
