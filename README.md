@@ -21,7 +21,7 @@
 
 
 # 🌟 Introduction <a name="introduction"></a>
-Hi there! Amir here, a data scientist with an academic background in math and philosophy. I love all things data but particularly find Natural language Processing (NLP) very fascinating. On the philosophical side of things, I like diving deep into questions of machine consciousness, social impact tech, AI safety, and IT ethics.
+Hi there! Amir here, a data scientist with an academic background in math and philosophy, and some prior experience as a data analyst. I love all things data but particularly find Natural language Processing (NLP) very fascinating. On the philosophical side of things, I like diving deep into questions of machine consciousness, social impact tech, AI safety, and IT ethics. *I'm currently looking for opportunities in the data space, particularly Data Science and Analysis.*
 
 📄[Resume](https://drive.google.com/file/d/1_nvSbqxQdKpYnM79xMvYJtw20BEqvbqk/view?usp=sharing)
 
@@ -226,7 +226,7 @@ I also sometimes write voluntary content on the subject for not-for-profits such
 
 # 📧 Contact <a name="contact"></a>
 
-You can reach me via [ahosseinkiani@gmail.com](ahosseinkiani@gmail.com) or on [LinkedIn](https://linkedin.com/in/amirhossein-kiani).
+I'm currently looking for opportunities in the data space, particularly Data Science and Analysis. If you'd like to discuss anything data, including but not limited to job opportunities, you can reach me via [ahosseinkiani@gmail.com](ahosseinkiani@gmail.com) or on [LinkedIn](https://linkedin.com/in/amirhossein-kiani).
 <!--
 **amirkiaml/amirkiaml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
