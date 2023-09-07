@@ -91,6 +91,8 @@ In data science, I have used the following tools, some more than others:
 
 I created a recommender system on a dataset of over `520k` recipes `scraped` from [food.com](www.food.com) as my capstone project for the bootcamp -- titled **DeepChef**. DeepChef I harnesses the power of state-of-the-art large `language models` and `semantic embeddings` to create a `recommender system` that takes in users' favorite recipes -- ingredients or instructions, along with themes or other elements -- and returns the 5-most similar recipes from the dataset. To follow the most recent updates on DeepChef, check out [this repository](https://github.com/amirkiaml/DeepChef-BSTN-Capstone). 
 
+https://www.loom.com/share/350eed0ce28c43e297ea78e6ede7d694
+
 I have also deployed the recommender system from Notebooks 5 and 6 into an online `interactive app` that can be accessed through this address: https://deepchef.streamlit.app.
 
 In order to ensure the app is up and running on `Streamlit`'s website, I have deployed the recommender system only on 10% of the data that was originally curated for this purpose (see Notebook 6 of the project's repo). I hope to be able to scale the model in the near future.
