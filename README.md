@@ -29,7 +29,7 @@ Hi there! Amir here, a data scientist with an academic background in math and ph
 
 # 🎓 Academic Background and Transferrable Skills <a name="academic"></a>
 
-Before transitioning into Data Science, I spent over 12 years in academia. I did a BSc in Mathematics, an MA and a PhD in Philosophy. Throughout these years I acquired a wide range of hard and soft skills that are transferrable in industry. In short, some of these skills are as follows:
+Before transitioning into Data Science, I spent over 12 years in academia. I did a BSc in Mathematics, an MA, and a PhD in Mathematical Philosophy and Logic. Throughout these years I acquired a wide range of hard and soft skills that are transferrable in industry. In short, some of these skills are as follows:
     
 - `analytical thinking`
 - `problem solving`
