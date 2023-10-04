@@ -21,7 +21,7 @@
 
 
 # 🌟 Introduction <a name="introduction"></a>
-Hi there! Amir here, professionally going by 'Adrian'. I'm a data scientist with an academic background in math and philosophy, and some prior experience as a data analyst. I love all things data but particularly find Natural language Processing (NLP) very fascinating. On the philosophical side of things, I like diving deep into questions of machine consciousness, social impact tech, AI safety, and IT ethics.
+Hi there! Amir here. I'm a data scientist with an academic background in math and philosophy, and some prior experience as a data analyst. I love all things data but particularly find Natural language Processing (NLP) very fascinating. On the philosophical side of things, I like diving deep into questions of machine consciousness, social impact tech, AI safety, and IT ethics.
 
 ## <span style="color:green">👨‍💼 **`I am currently looking for opportunities`** 👨‍💼</span>
 
